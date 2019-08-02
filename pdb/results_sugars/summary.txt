@@ -1,0 +1,25 @@
+-------------------------
+3P4J [bonds: 88/88, angles: 168/168]
+-------------------------
+RMSD (bonds) Parkinson: 0.0083
+RMSD (bonds) Ours: 0.0076
+RMSD (angles) Parkinson: 1.4902
+RMSD (angles) Ours: 1.0800
+-------------------------
+1D8G [bonds: 15/15, angles: 28/28]
+-------------------------
+RMSD (bonds) Parkinson: 0.0144
+RMSD (bonds) Ours: 0.0137
+RMSD (angles) Parkinson: 1.6947
+RMSD (angles) Ours: 1.4919
+-------------------------
+Overall [bonds: 2260/2260, angles: 4350/4350]
+-------------------------
+RMSD (bonds) Parkinson: 0.0272
+RMSD (bonds) Ours: 0.0274
+RMSD (angles) Parkinson: 2.6656
+RMSD (angles) Ours: 2.4556
+-------------------------
+Wilcoxon (bonds): 0.2032
+Wilcoxon (angles): 0.0000
+-------------------------
