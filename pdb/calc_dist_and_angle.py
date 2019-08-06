@@ -629,7 +629,7 @@ def calculate(data_dir, results_dir, bonds_map, angles_map):
 
 
 def simple_histogram(data, bins, range, colors, labels, x_label, y_label, result_folder, result_filename):
-    sns.set(style="ticks", palette="Set1", font_scale=1.5, font="Times New Roman")
+    sns.set(style="ticks", palette="Set1", font_scale=1.5)
     fg = plt.figure()
     plt.hist(data, bins, range, color=colors, label=labels)
     plt.legend()
@@ -643,5 +643,5 @@ def simple_histogram(data, bins, range, colors, labels, x_label, y_label, result
 
 
 if __name__ == '__main__':
-    download_from_csv_file(csv="ndb_query_results.csv", out_dir="data", force=False, restraints=False)
+    download_from_csv_file(csv="ndb_query_results.csv", out_dir="data", force=False, restraints=True)
     calculate("data", "results_sugars", SUGARS_BONDS_MAP, SUGARS_ANGLES_MAP)

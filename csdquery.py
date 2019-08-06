@@ -77,9 +77,9 @@ class CsdAnalysisComponent(object):
         logging.info("Saving plot to: %s", plot_file)
         ggsave(plot=plot, dpi=PLOT_DPI, width=width, height=height, filename=plot_file)
 
-        svg_plot_file = plot_file[:-4] + ".svg"
-        logging.info("Saving plot to: %s", svg_plot_file)
-        ggsave(plot=plot, dpi=PLOT_DPI, width=width, height=height, filename=svg_plot_file)
+        # svg_plot_file = plot_file[:-4] + ".svg"
+        # logging.info("Saving plot to: %s", svg_plot_file)
+        # ggsave(plot=plot, dpi=PLOT_DPI, width=width, height=height, filename=svg_plot_file)
 
 
 class CsdQuery(CsdAnalysisComponent):
@@ -341,8 +341,7 @@ class CsdQueryResult(CsdAnalysisComponent):
                             if not col.startswith("Func"):
                                 group_df = group_df.loc[(df.loc[:, col] == condition[idx]), :].copy()
 
-                    if functional_argument is None:
-                        restraints_df = self.create_subgroup_restraint_csv(group_df, groups[group], prefix + name)
+                    restraints_df = self.create_subgroup_restraint_csv(group_df, groups[group], prefix + name, functional_argument)
 
                     for definition in file_definitions:
                         if self._is_matching_restraint(condition, definition.name) or self._is_universal_restraint(condition, file_definitions):
@@ -609,9 +608,10 @@ class CsdQueryResult(CsdAnalysisComponent):
         else:
             return '{0:.3f}({1:.0f})'.format(x[self.MEAN_COLUMN], x[self.STANDARD_DEVIATION_COLUMN] * 1000)
 
-    def create_subgroup_restraint_csv(self, df, measurements, name):
-        restraints_file = self.base._create_results_save_path(name + '_restraints.csv', subfolder="Restraints")
-        logging.info("Saving restraint to: %s (%s)", restraints_file, measurements)
+    def create_subgroup_restraint_csv(self, df, measurements, name, functional_argument):
+        if functional_argument is None:
+            restraints_file = self.base._create_results_save_path(name + '_restraints.csv', subfolder="Restraints")
+            logging.info("Saving restraint to: %s (%s)", restraints_file, measurements)
 
         means = df.loc[:, measurements].mean()
         stds = df.loc[:, measurements].std()
@@ -620,7 +620,8 @@ class CsdQueryResult(CsdAnalysisComponent):
         restraints_df.columns = [self.MEAN_COLUMN, self.STANDARD_DEVIATION_COLUMN]
         restraints_df.loc[:, "N"] = count
         restraints_df.loc[:, "Formatted"] = restraints_df.apply(self.format_restraint_value, axis=1)
-        restraints_df.to_csv(restraints_file, index=True)
+        if functional_argument is None:
+            restraints_df.to_csv(restraints_file, index=True)
 
         return restraints_df
 

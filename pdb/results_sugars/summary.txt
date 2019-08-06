@@ -18,8 +18,8 @@ Overall [bonds: 2260/2260, angles: 4350/4350]
 RMSD (bonds) Parkinson: 0.0272
 RMSD (bonds) Ours: 0.0274
 RMSD (angles) Parkinson: 2.6656
-RMSD (angles) Ours: 2.4556
+RMSD (angles) Ours: 2.4547
 -------------------------
-Wilcoxon (bonds): 0.2032
+Wilcoxon (bonds): 0.2052
 Wilcoxon (angles): 0.0000
 -------------------------
