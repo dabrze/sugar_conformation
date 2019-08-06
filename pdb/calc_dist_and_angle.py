@@ -569,10 +569,10 @@ Wilcoxon (angles): {:.4f}
     with open(os.path.join(results_dir, "summary.txt"), "w") as text_file:
         text_file.write(summary)
 
-    simple_histogram([diff_restraintlib_angles, diff_parkinson_angles], 12, (0, 6), ["#80B5D6", "#e74c3c"],
+    simple_histogram([diff_restraintlib_angles, diff_parkinson_angles], 12, (0, 6), ["#77AADD", "#CCCCCC"],
                      ["This work", "Parkinson et al."], "Angle difference [$^\circ$]", "Count", results_dir,
                      "restrain_angle_comparison.hist")
-    simple_histogram([diff_restraintlib_bonds, diff_parkinson_bonds], 12, (0, 0.06), ["#80B5D6", "#e74c3c"],
+    simple_histogram([diff_restraintlib_bonds, diff_parkinson_bonds], 12, (0, 0.06), ["#77AADD", "#CCCCCC"],
                      ["This work", "Parkinson et al."], "Bond length difference [$\AA$]", "Count", results_dir,
                      "restrain_dist_comparison.hist")
 
@@ -637,7 +637,7 @@ def simple_histogram(data, bins, range, colors, labels, x_label, y_label, result
     plt.ylabel(y_label)
 
     print("Saving histogram to:", result_filename)
-    fg.savefig(os.path.join(result_folder, result_filename) + ".png", bbox_inches="tight")
+    fg.savefig(os.path.join(result_folder, result_filename) + ".png", bbox_inches="tight", dpi=600)
     fg.savefig(os.path.join(result_folder, result_filename) + ".svg", format="svg", bbox_inches="tight")
     plt.close()
 
