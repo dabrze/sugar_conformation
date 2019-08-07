@@ -727,10 +727,10 @@ dist,deoxyribose_pyrimidine_terminal_C3==Sugar=deoxyribose__Conformation=Other,d
 dist,deoxyribose_pyrimidine_terminal_C3==Sugar=deoxyribose__Conformation=C2'-endo,dC3'O3',B,6,C3',,B,6,O3',,,,,,1.425,0.008
 angle,deoxyribose_purine_terminal_C5==Chi=anti__Conformation=Other,aC2'C3'O3',A,1,C2',,A,1,C3',,A,1,O3',,111.9,2.5
 angle,deoxyribose_purine_terminal_C5==Chi=anti__Conformation=Other,aC2'C3'O3',B,1,C2',,B,1,C3',,B,1,O3',,111.9,2.5
-dist,deoxyribose_purine_terminal_C5==Gamma=gauche+,dC4'C5',A,1,C4',,A,1,C5',,,,,,1.510,0.009
+dist,deoxyribose_purine_terminal_C5==Gamma=gauche+,dC4'C5',A,1,C4',,A,1,C5',,,,,,1.508,0.009
 angle,deoxyribose_purine_terminal_C5==Gamma=gauche+,aC3'C4'C5',A,1,C3',,A,1,C4',,A,1,C5',,115.7,1.2
 angle,deoxyribose_purine_terminal_C5==Gamma=gauche+,aC5'C4'O4',A,1,C5',,A,1,C4',,A,1,O4',,109.4,1.0
-dist,deoxyribose_purine_terminal_C5==Gamma=gauche+,dC4'C5',B,1,C4',,B,1,C5',,,,,,1.510,0.009
+dist,deoxyribose_purine_terminal_C5==Gamma=gauche+,dC4'C5',B,1,C4',,B,1,C5',,,,,,1.508,0.009
 angle,deoxyribose_purine_terminal_C5==Gamma=gauche+,aC3'C4'C5',B,1,C3',,B,1,C4',,B,1,C5',,115.7,1.2
 angle,deoxyribose_purine_terminal_C5==Gamma=gauche+,aC5'C4'O4',B,1,C5',,B,1,C4',,B,1,O4',,109.4,1.0
 dist,deoxyribose_purine_terminal_C5==Conformation=C3'-endo,dC3'C4',A,1,C3',,A,1,C4',,,,,,1.520,0.009

@@ -834,10 +834,10 @@ angle,ribose_pyrimidine_terminal_C5==Chi=anti__Conformation=C3'-endo,aC2'C3'O3',
 angle,ribose_pyrimidine_terminal_C5==Chi=anti__Conformation=C3'-endo,aC1'C2'O2',B,2001,C1',,B,2001,C2',,B,2001,O2',,108.7,2.3
 angle,ribose_pyrimidine_terminal_C5==Chi=anti__Conformation=C3'-endo,aC3'C2'O2',B,2001,C3',,B,2001,C2',,B,2001,O2',,110.4,2.1
 angle,ribose_pyrimidine_terminal_C5==Chi=anti__Conformation=C3'-endo,aC2'C3'O3',B,2001,C2',,B,2001,C3',,B,2001,O3',,113.4,2.1
-dist,ribose_pyrimidine_terminal_C5==Gamma=gauche+,dC4'C5',A,1001,C4',,A,1001,C5',,,,,,1.510,0.009
+dist,ribose_pyrimidine_terminal_C5==Gamma=gauche+,dC4'C5',A,1001,C4',,A,1001,C5',,,,,,1.508,0.009
 angle,ribose_pyrimidine_terminal_C5==Gamma=gauche+,aC3'C4'C5',A,1001,C3',,A,1001,C4',,A,1001,C5',,115.7,1.2
 angle,ribose_pyrimidine_terminal_C5==Gamma=gauche+,aC5'C4'O4',A,1001,C5',,A,1001,C4',,A,1001,O4',,109.4,1.0
-dist,ribose_pyrimidine_terminal_C5==Gamma=gauche+,dC4'C5',B,2001,C4',,B,2001,C5',,,,,,1.510,0.009
+dist,ribose_pyrimidine_terminal_C5==Gamma=gauche+,dC4'C5',B,2001,C4',,B,2001,C5',,,,,,1.508,0.009
 angle,ribose_pyrimidine_terminal_C5==Gamma=gauche+,aC3'C4'C5',B,2001,C3',,B,2001,C4',,B,2001,C5',,115.7,1.2
 angle,ribose_pyrimidine_terminal_C5==Gamma=gauche+,aC5'C4'O4',B,2001,C5',,B,2001,C4',,B,2001,O4',,109.4,1.0
 dist,ribose_pyrimidine_terminal_C5==Conformation=C3'-endo,dC3'C4',A,1001,C3',,A,1001,C4',,,,,,1.520,0.009

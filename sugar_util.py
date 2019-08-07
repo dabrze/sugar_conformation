@@ -154,7 +154,6 @@ def visualize_and_tabularize_results(result, order, base, color_columns, correla
         for correlator in correlators:
             result.plot_scatter(correlator, order[base], color_column=column)
 
-    result.save_restraints_to_file(order[base])
     result.save_ref_codes_to_file()
 
 
@@ -803,7 +802,7 @@ terminal_C3_restraint_groups = {
 
 terminal_C5_common_restraint_groups = {
     "Chi-Conformation": ["C1'-C2'-O2'", "C3'-C2'-O2'", "C2'-C3'-O3'"],
-    "Gamma": ["C3'-C4'-C5'", "C5'-C4'-O4'"],
+    "Gamma": ["C4'-C5'", "C3'-C4'-C5'", "C5'-C4'-O4'"],
     "Conformation": ["C3'-C4'", "C2'-O2'", "C2'-C1'-O4'"],
     "Base-Func[torsion_chi]": ["N1-C1'-C2'/N9-C1'-C2'", "C1'-N1-C2/C1'-N9-C4", "C1'-N1-C6/C1'-N9-C8", "N1-C1'-O4'/N9-C1'-O4'"],
     "All-Func[torsion_chi]": ["C1'-N1/C1'-N9", "C1'-O4'"],
@@ -816,7 +815,6 @@ terminal_C5_common_restraint_groups = {
 terminal_C5_restraint_groups = {
     "All": ["C5'-O5'"],
     "Chi-Gamma": ["C4'-C5'-O5'"],
-    "Gamma": ["C4'-C5'"]
 }
 
 terminal_C3_restraint_group_files = [

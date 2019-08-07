@@ -12,13 +12,14 @@ SOURCE   4 ORGANISM_TAXID: 32630
 KEYWDS    DNA, SILVER, EMISSIVE CLUSTER, NANOCLUSTER                            
 EXPDTA    X-RAY DIFFRACTION                                                     
 AUTHOR    R.L.LIEBERMAN,D.J.E.HUARD                                             
+REVDAT   3   31-JUL-19 6NIZ    1       JRNL                                     
 REVDAT   2   26-JUN-19 6NIZ    1       JRNL                                     
 REVDAT   1   16-JAN-19 6NIZ    0                                                
 JRNL        AUTH   D.J.E.HUARD,A.DEMISSIE,D.KIM,D.LEWIS,R.M.DICKSON,J.T.PETTY,  
 JRNL        AUTH 2 R.L.LIEBERMAN                                                
 JRNL        TITL   ATOMIC STRUCTURE OF A FLUORESCENT AG8CLUSTER TEMPLATED BY A  
 JRNL        TITL 2 MULTISTRANDED DNA SCAFFOLD.                                  
-JRNL        REF    J.AM.CHEM.SOC.                             2019              
+JRNL        REF    J.AM.CHEM.SOC.                V. 141 11465 2019              
 JRNL        REFN                   ESSN 1520-5126                               
 JRNL        PMID   30562465                                                     
 JRNL        DOI    10.1021/JACS.8B12203                                         
