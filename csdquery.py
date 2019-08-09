@@ -77,9 +77,9 @@ class CsdAnalysisComponent(object):
         logging.info("Saving plot to: %s", plot_file)
         ggsave(plot=plot, dpi=PLOT_DPI, width=width, height=height, filename=plot_file)
 
-        # svg_plot_file = plot_file[:-4] + ".svg"
-        # logging.info("Saving plot to: %s", svg_plot_file)
-        # ggsave(plot=plot, dpi=PLOT_DPI, width=width, height=height, filename=svg_plot_file)
+        svg_plot_file = plot_file[:-4] + ".svg"
+        logging.info("Saving plot to: %s", svg_plot_file)
+        ggsave(plot=plot, dpi=PLOT_DPI, width=width, height=height, filename=svg_plot_file)
 
 
 class CsdQuery(CsdAnalysisComponent):
@@ -668,6 +668,7 @@ class CsdQueryResult(CsdAnalysisComponent):
                         show_temperature=False, color_column=None, x_column=None, trim=True):
         gathered_df = self._get_gathered_plot_df()
         gathered_df[self.GROUP_COLUMN] = gathered_df.apply(lambda row: self._determine_measurement_group(row), axis=1)
+        column_mapper = {'Gamma': u"γ rotamer", 'Chi': u"χ rotamer"}
 
         for group, group_enum in Measurement.__members__.items():
             plot_name = group_enum.name + ('' if color_column is None else '_' + str(color_column)) + '_' + \
@@ -701,13 +702,17 @@ class CsdQueryResult(CsdAnalysisComponent):
                 p = (p + stat_summary(fun_data="mean_sdl", fun_args={"mult": 1}, geom="pointrange",
                                       position=position_dodge(width=0.9), color="black")
                      + facet_wrap('~' + self.MEASUREMENT_COLUMN, scales='free')
-                     + labs(y=self._get_measurement_plot_label(group_enum))
                      + scale_y_continuous(breaks=mpl_breaks(nbins=5, steps=[1, 2]))
                      + theme_bw()
                      + theme(panel_spacing_x=0.5, panel_spacing_y=0.25, axis_text_x=element_text(colour="black", size=7),
                              axis_text_y=element_text(colour="black"), # legend_position=(0.84, 0.17)
                              )
                      + ggtitle(self.csd_query.name.replace("_", " ") + " (N=" + str(n) + ")"))
+
+                if x_column in column_mapper:
+                    p = p + labs(x=column_mapper[x_column], y=self._get_measurement_plot_label(group_enum))
+                else:
+                    p = p + labs(y=self._get_measurement_plot_label(group_enum))
 
                 if color_column is not None:
                     p = p + self._get_fill(color_column)
@@ -724,9 +729,9 @@ class CsdQueryResult(CsdAnalysisComponent):
 
     def plot_scatter(self, x, measurement_order=None, width=10, height=6, dpi=PLOT_DPI, color_column=None,
                      point_column=None, smooth_func=None, smooth_params=None, measurement_subset=None, suffix=None):
-        column_mapper = {'Theta': u"Pseudorotation angle", 'T_max': u"Max. degree of pucker", "T3455": u"Gamma",
-                         'TCHI': u"Chi", 'absChi': '|Chi|', 'absGamma': '|Gamma|', 'absChiDiff90': u'||Chi|-90°|',
-                         'absGammaDiff90': u'||Gamma|-90°|'}
+        column_mapper = {'Theta': u"Pseudorotation angle P [°]", 'T_max': u"Max. degree of pucker τₘ [°]", "T3455": u"Torsion angle γ [°]",
+                         'TCHI': u"Torsion angle χ [°]", 'absChi': u'|Torsion angle χ|', 'absGamma': u'|Torsion angle γ| [°]', 'absChiDiff90': u'||Torsion angle χ|-90°| [°]',
+                         'absGammaDiff90': u'||Torsion angle γ|-90°| [°]'}
 
         gathered_df = self._get_normalized_gathered_plot_df(omit=[CsdQuery.TEMP_COLUMN, x])
         gathered_df[self.GROUP_COLUMN] = gathered_df.apply(lambda row: self._determine_measurement_group(row), axis=1)
@@ -871,12 +876,12 @@ class CsdQueryResult(CsdAnalysisComponent):
                 if plot_df.empty:
                     return
 
-                plots = [(('Theta',u"Pseudorotation angle"), ('T_max', u"Max. degree of pucker")),
-                         (('Theta', u"Pseudorotation angle"), ("T3455", u"Gamma")),
-                         (('Theta', u"Pseudorotation angle"), ('TCHI', u"Chi")),
-                         (('TCHI', u"Chi"), ("T3455", u"Gamma")),
-                         (('TCHI', u"Chi"), ('T_max', u"Max. degree of pucker")),
-                         (("T3455", u"Gamma"), ('T_max', u"Max. degree of pucker")),
+                plots = [(('Theta',u"Pseudorotation angle [°]"), ('T_max', u"Max. degree of pucker τₘ [°]")),
+                         (('Theta', u"Pseudorotation angle [°]"), ("T3455", u"Torsion angle γ [°]")),
+                         (('Theta', u"Pseudorotation angle [°]"), ('TCHI', u"Torsion angle χ [°]")),
+                         (('TCHI', u"Torsion angle χ [°]"), ("T3455", u"Torsion angle γ [°]")),
+                         (('TCHI', u"Torsion angle χ [°]"), ('T_max', u"Max. degree of pucker τₘ [°]")),
+                         (("T3455", u"Torsion angle γ [°]"), ('T_max', u"Max. degree of pucker τₘ [°]")),
                          ]
 
                 for kvps in plots:
@@ -1049,10 +1054,10 @@ class CsdMultiQueryAnalysisResults(CsdAnalysisComponent):
 
         measurements = {
             CsdQueryResult.STRUCTURE_COUNT_COLUMN: "Structure count",
-            CsdQueryResult.BOND_LENGTH_SEM_COLUMN: u'Avg. bond length SEM [Å]',
-            CsdQueryResult.BOND_ANGLE_SEM_COLUMN: u'Avg. bond angle SEM [°]',
-            CsdQueryResult.BOND_LENGTH_STD_MEAN_COLUMN: u'Avg. bond length standard deviation [Å]',
-            CsdQueryResult.BOND_ANGLE_STD_MEAN_COLUMN:  u'Avg. bond angle standard deviation [°]'
+            CsdQueryResult.BOND_LENGTH_SEM_COLUMN: u'Average SEM(bonds) [Å]',
+            CsdQueryResult.BOND_ANGLE_SEM_COLUMN: u'Average SEM(angles) [°]',
+            CsdQueryResult.BOND_LENGTH_STD_MEAN_COLUMN: u'Average STD(bonds) [Å]',
+            CsdQueryResult.BOND_ANGLE_STD_MEAN_COLUMN:  u'Average STD(angles) [°]'
         }
 
         for measurement in measurements.keys():
