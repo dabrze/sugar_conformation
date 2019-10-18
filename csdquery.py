@@ -700,7 +700,7 @@ class CsdQueryResult(CsdAnalysisComponent):
                          geom_violin(color="black", trim=trim, width=violin_width))
 
                 p = (p + stat_summary(fun_data="mean_sdl", fun_args={"mult": 1}, geom="pointrange",
-                                      position=position_dodge(width=0.9), color="black")
+                                      position=position_dodge(width=1.0), color="black")
                      + facet_wrap('~' + self.MEASUREMENT_COLUMN, scales='free')
                      + scale_y_continuous(breaks=mpl_breaks(nbins=5, steps=[1, 2]))
                      + theme_bw()
@@ -1069,7 +1069,7 @@ class CsdMultiQueryAnalysisResults(CsdAnalysisComponent):
                  + geom_line()
                  + facet_grid(CsdQueryResult.NAME_COLUMN + '~' + self.PLOT_ESD_COLUMN)
                  + theme_bw()
-                 + labs(x="Max R-factor [%]", y=measurements[measurement])
+                 + labs(x="R-factor [%]", y=measurements[measurement])
                  + scale_color_manual(['#EE7733', '#0077BB'])
                  + theme(legend_position="top", legend_box="horizontal", legend_title=element_blank(),
                          axis_text_x=element_text(colour="black"), axis_text_y=element_text(colour="black")))
@@ -1104,7 +1104,7 @@ class CsdMultiQueryAnalysisResults(CsdAnalysisComponent):
              + geom_point()
              + geom_line()
              + facet_grid(CsdQueryResult.NAME_COLUMN + '~.')
-             + labs(x='Max R-factor [%]')
+             + labs(x='R-factor [%]')
              + theme_bw()
              + theme(legend_position="top", legend_box="horizontal", legend_title=element_blank(),
                      axis_text_x=element_text(colour="black"), axis_text_y=element_text(colour="black")))

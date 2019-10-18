@@ -98,9 +98,7 @@ if __name__ == '__main__':
     ############
     # Terminal sugars
     ############
-    terminal_measurements, terminal_result = process_query_results("sugar_terminal_C3", "sugar_queries/terminal C3",
-                                                                   selected_r, selected_no_disorder, selected_rem_out,
-                                                                   selected_max_esd)
+    terminal_measurements, terminal_result = process_query_results("sugar_terminal_C3", "sugar_queries/terminal C3", selected_r, selected_no_disorder, selected_rem_out, selected_max_esd)
     terminal_result.save_subgroup_restraints([(terminal_measurements, terminal_C3_restraint_groups, "terminal_C3_"), (sugar_measurements, terminal_C3_common_restraint_groups, "common_C3_")], terminal_C3_restraint_group_files, condition_mapper)
     terminal_result.plot_box(measurements_order["combined"])
     terminal_result.plot_box(measurements_order["combined"], x_column="Conformation", color_column="Sugar")
@@ -108,9 +106,7 @@ if __name__ == '__main__':
     terminal_result.plot_box(measurements_order["combined"], x_column="Sugar", color_column="Chi")
     terminal_result.plot_box(measurements_order["combined"], x_column="Chi", color_column="Gamma")
 
-    terminal_measurements, terminal_result = process_query_results("sugar_terminal_C5", "sugar_queries/terminal C5",
-                                                                   selected_r, selected_no_disorder, selected_rem_out,
-                                                                   selected_max_esd)
+    terminal_measurements, terminal_result = process_query_results("sugar_terminal_C5", "sugar_queries/terminal C5", selected_r, selected_no_disorder, selected_rem_out, selected_max_esd)
     terminal_result.save_subgroup_restraints([(terminal_measurements, terminal_C5_restraint_groups, "terminal_C5_"), (sugar_measurements, terminal_C5_common_restraint_groups, "common_C5_")], terminal_C5_restraint_group_files, condition_mapper)
     terminal_result.plot_box(measurements_order["combined"])
     terminal_result.plot_box(measurements_order["combined"], x_column="Conformation", color_column="Sugar")
