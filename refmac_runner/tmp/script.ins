@@ -1,0 +1,68 @@
+refi resolution 50.0 1.95
+make check NONE
+make -
+    hydrogen ALL -
+    hout NO -
+    peptide NO -
+    cispeptide YES -
+    ssbridge YES -
+    symmetry YES -
+    sugar YES -
+    connectivity NO -
+    link NO
+#NCSR LOCAL
+refi -
+    type REST -
+    resi MLKF -
+    meth CGMAT -
+    bref ISOT
+#refi tlsc 0
+ncyc 30
+scal -
+    type BULK -
+    reso 50.0 1.95 -
+    LSSC -
+    ANISO -
+    EXPE
+solvent YES
+weight matrix 0.4
+#weight -
+#    AUTO
+monitor MEDIUM -
+    torsion 10.0 -
+    distance 3.0 -
+    angle 3.0 -
+    plane 10.0 -
+    chiral 10.0 -
+    bfactor 10.0 -
+    bsphere 10.0 -
+    rbond 10.0 -
+    ncsr 10.0
+labin  FP=FP SIGFP=SIGFP FREE=FREE
+labout  FC=FC FWT=FWT PHIC=PHIC PHWT=PHWT DELFWT=DELFWT PHDELWT=PHDELWT FOM=FOM
+# only in final
+#tlso addu
+#dist 1.3     
+#angle 1.57
+vand -
+    overall 3.54 -
+    sigma metal 3.54
+#temperature factors
+#temp set 20.0
+PNAME unknown
+DNAME unknown190
+RSIZE 80
+# external
+# bonds
+EXTERNAL WEIGHT SCALE distance 2.1
+EXTERNAL WEIGHT SCALE ANGLE 2.1
+EXTERNAL WEIGHT GMWT 5.0
+EXTERNAL USE ALL
+EXTERNAL DMAX 4.2
+# External script file:
+@tmp/100.in
+END
+## This script run with the command   ##########
+# refmac5 XYZIN "3SSF.pdb" XYZOUT "100.pdb" HKLIN "hybrid-km-hamburg.mtz" HKLOUT "100.mtz" TLSIN "ref.tls" TLSOUT "100.tls" LIBOUT "100.cif"
+################################################ 
+
