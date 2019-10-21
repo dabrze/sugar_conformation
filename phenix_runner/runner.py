@@ -4,8 +4,8 @@ from subprocess import Popen, PIPE
 
 script = """refinement {{
   crystal_symmetry {{
-    unit_cell = 47.231 47.231 24.464 90 90 90
-    space_group = "P 43"
+    unit_cell = 60.4 60.4 133.1 90 90 120
+    space_group = "P 61 2 2"
   }}
   input {{
     pdb {{
@@ -13,15 +13,12 @@ script = """refinement {{
     }}
     xray_data {{
       file_name = "{cif_file}"
-      labels = "r2gunsf,wavelength_id=1,_refln.F_meas_au,_refln.F_meas_sigma_au"
+      labels = "r429dsf,wavelength_id=1,_refln.F_meas_au,_refln.F_meas_sigma_au"
       r_free_flags {{
         file_name = "{cif_file}"
-        label = "r2gunsf,wavelength_id=1,_refln.status"
+        label = "r429dsf,wavelength_id=1,_refln.status"
         test_flag_value = 0
       }}
-    }}
-    monomers {{
-      file_name = "{ligands_file}"
     }}
   }}
   output {{
@@ -29,6 +26,7 @@ script = """refinement {{
     serial = {job_number}
     serial_format = "%d"
     job_title = "{job_title}"
+    write_final_geo_file = True
     write_def_file = False
   }}
   electron_density_maps {{
@@ -73,16 +71,15 @@ script = """refinement {{
 """
 
 config = {
-    'pdb_file': 'data/2gun.updated.pdb',
-    'cif_file': 'data/2gun-sf.cif',
-    'ligands_file': 'data/2gun.ligands.cif',
-    'restraints_file': 'data/2gun_sugars_restraints.txt',
+    'pdb_file': 'data/429d.pdb',
+    'cif_file': 'data/429d-sf.cif',
+    'restraints_file': 'data/429d_sugars_restraints.txt',
     'output_dir': 'out/',
     'tmp_dir': 'tmp/',
     'number_of_cycles': 5,
     'job_prefix': '2GUN_refine',
     'job_title': '',
-    'job_number': 1,
+    'job_number': 0,
     'wxc': 3.0,
     'params_file': 'tmp/refine.params',
     'log': 'tmp/phenix.log',
@@ -128,7 +125,9 @@ def run_value_change(script, config, config_keys, run_log_filename, init=0.0, st
     with open(run_log_filename, 'w') as run_log:
         print >> run_log, ";".join((str(_) for _ in ('pdb_file', 'r_work', 'r_free', 'rmsd_bonds', 'rmsd_angles', 'wxc', 'restraints_file')))
 
-    for value in (init+step*i for i in range(size)):
+    for i in range(size):
+        value = init+step*i
+        config['job_number'] = int(value*100)
         for config_key in config_keys:
             config[config_key] = value
         print 'run one', value
@@ -138,14 +137,16 @@ def run_value_change(script, config, config_keys, run_log_filename, init=0.0, st
 def sugar_main(script, config):
 
     config['restraints_file'] = 'None'
+    config['job_prefix'] = '2GUN_standard'
 
-    if not os.path.exists('sugar_results/run_standard_2gun.log'):
-        run_value_change(script, config, ['wxc'], 'sugar_results/run_standard_2gun.log', 2.5, 0.05, 21)
+    if not os.path.exists('sugar_results/run_standard_429d.log'):
+        run_value_change(script, config, ['wxc'], 'sugar_results/run_standard_429d.log', 6.0, 0.05, 11)
 
-    config['restraints_file'] = '"data/2gun_sugars_restraints.txt"'
+    config['restraints_file'] = '"data/429d_sugars_restraints.txt"'
+    config['job_prefix'] = '2GUN_external'
 
-    if not os.path.exists('sugar_results/run_external_2gun.log'):
-        run_value_change(script, config, ['wxc'], 'sugar_results/run_external_2gun.log', 2.5, 0.05, 21)
+    if not os.path.exists('sugar_results/run_external_429d.log'):
+        run_value_change(script, config, ['wxc'], 'sugar_results/run_external_429d.log', 5.0, 0.05, 41)
 
 
 sugar_main(script, config)
