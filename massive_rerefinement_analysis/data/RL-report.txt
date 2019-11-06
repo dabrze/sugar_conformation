@@ -1,0 +1,3846 @@
+1csl
+                      Initial    Final
+           R factor    0.2091   0.1684
+             R free    0.2379   0.2101
+     Rms BondLength    0.0053   0.0087
+      Rms BondAngle    1.0429   1.5366
+1d4r
+                      Initial    Final
+           R factor    0.2599   0.2443
+             R free    0.2860   0.2810
+     Rms BondLength    0.0102   0.0071
+      Rms BondAngle    1.4779   1.4443
+1d9h
+                      Initial    Final
+           R factor    0.1701   0.1521
+             R free    0.2198   0.1975
+     Rms BondLength    0.0144   0.0120
+      Rms BondAngle    1.5245   1.6601
+1dc0
+                      Initial    Final
+           R factor    0.2071   0.1935
+             R free    0.2040   0.2064
+     Rms BondLength    0.0189   0.0155
+      Rms BondAngle    1.8319   1.3968
+1duh
+                      Initial    Final
+           R factor    0.2298   0.1979
+             R free    0.2449   0.2347
+     Rms BondLength    0.0108   0.0096
+      Rms BondAngle    1.1922   1.6773
+1ei4
+                      Initial    Final
+           R factor    0.1928   0.1831
+             R free    0.2045   0.2096
+     Rms BondLength    0.0175   0.0149
+      Rms BondAngle    2.3410   2.5778
+1evv
+                      Initial    Final
+           R factor    0.2231   0.2125
+             R free    0.2633   0.2693
+     Rms BondLength    0.0262   0.0084
+      Rms BondAngle    2.2393   1.8413
+1fq2
+                      Initial    Final
+           R factor    0.2084   0.1901
+             R free    0.2231   0.2231
+     Rms BondLength    0.0167   0.0167
+      Rms BondAngle    2.4989   1.9806
+1g4q
+                      Initial    Final
+           R factor    0.1802   0.1630
+             R free    0.1943   0.1865
+     Rms BondLength    0.0288   0.0236
+      Rms BondAngle    2.7601   2.2474
+1hq7
+                      Initial    Final
+           R factor    0.2453   0.2320
+             R free    0.2762   0.2699
+     Rms BondLength    0.0184   0.0082
+      Rms BondAngle    2.0042   1.6548
+1i0g
+                      Initial    Final
+           R factor    0.2146   0.1867
+             R free    0.2167   0.2154
+     Rms BondLength    0.0079   0.0152
+      Rms BondAngle    0.9632   1.3125
+1i0j
+                      Initial    Final
+           R factor    0.2294   0.1935
+             R free    0.2353   0.2104
+     Rms BondLength    0.0797   0.0287
+      Rms BondAngle    1.5416   1.8983
+1i0k
+                      Initial    Final
+           R factor    0.2566   0.2070
+             R free    0.2607   0.2260
+     Rms BondLength    0.0525   0.0187
+      Rms BondAngle    1.3143   1.6087
+1i0m
+                      Initial    Final
+           R factor    0.2428   0.1893
+             R free    0.2392   0.2144
+     Rms BondLength    0.1254   0.0204
+      Rms BondAngle    0.9363   1.4847
+1i0n
+                      Initial    Final
+           R factor    0.2920   0.1999
+             R free    0.3015   0.2470
+     Rms BondLength    0.0401   0.0171
+      Rms BondAngle    3.1546   1.4398
+1i0p
+                      Initial    Final
+           R factor    0.2375   0.1888
+             R free    0.2520   0.2180
+     Rms BondLength    0.0296   0.0172
+      Rms BondAngle    0.9226   1.4230
+1i2x
+                      Initial    Final
+           R factor    0.2580   0.2366
+             R free    0.2818   0.2690
+     Rms BondLength    0.0105   0.0070
+      Rms BondAngle    1.5234   1.2995
+1i2y
+                      Initial    Final
+           R factor    0.2203   0.2042
+             R free    0.2450   0.2365
+     Rms BondLength    0.0120   0.0073
+      Rms BondAngle    1.4922   1.2535
+1i5w
+                      Initial    Final
+           R factor    0.1640   0.1542
+             R free    0.1798   0.1750
+     Rms BondLength    0.0129   0.0160
+      Rms BondAngle    2.1907   2.3775
+1i9x
+                      Initial    Final
+           R factor    0.2214   0.1878
+             R free    0.2320   0.2094
+     Rms BondLength    0.0074   0.0078
+      Rms BondAngle    1.1639   1.5592
+1ikk
+                      Initial    Final
+           R factor    0.1724   0.1570
+             R free    0.2311   0.2077
+     Rms BondLength    0.0326   0.0152
+      Rms BondAngle    2.2806   1.7141
+1j6s
+                      Initial    Final
+           R factor    0.1936   0.1965
+             R free    0.2029   0.2183
+     Rms BondLength    0.0716   0.0296
+      Rms BondAngle    2.4828   1.8434
+1jes
+                      Initial    Final
+           R factor    0.1824   0.1690
+             R free    0.2011   0.1922
+     Rms BondLength    0.0146   0.0111
+      Rms BondAngle    1.7696   2.0292
+1jrn
+                      Initial    Final
+           R factor    0.2269   0.2281
+             R free    0.2776   0.2696
+     Rms BondLength    0.0657   0.0325
+      Rms BondAngle    1.4985   1.1306
+1jzv
+                      Initial    Final
+           R factor    0.2068   0.1913
+             R free    0.2331   0.2260
+     Rms BondLength    0.0214   0.0158
+      Rms BondAngle    1.6836   2.2126
+1kd3
+                      Initial    Final
+           R factor    0.2171   0.2071
+             R free    0.2400   0.2296
+     Rms BondLength    0.0078   0.0104
+      Rms BondAngle    0.7955   1.2448
+1kd4
+                      Initial    Final
+           R factor    0.2017   0.1928
+             R free    0.2191   0.2154
+     Rms BondLength    0.0128   0.0102
+      Rms BondAngle    0.9040   1.5089
+1kd5
+                      Initial    Final
+           R factor    0.2105   0.1995
+             R free    0.2490   0.2441
+     Rms BondLength    0.0139   0.0171
+      Rms BondAngle    1.8653   1.5833
+1kgk
+                      Initial    Final
+           R factor    0.1638   0.1503
+             R free    0.1657   0.1692
+     Rms BondLength    0.0350   0.0168
+      Rms BondAngle    2.6190   1.9191
+1kh6
+                      Initial    Final
+           R factor    0.2797   0.2325
+             R free    0.2665   0.2568
+     Rms BondLength    0.0242   0.0101
+      Rms BondAngle    1.6584   2.2097
+1l1h
+                      Initial    Final
+           R factor    0.1647   0.1526
+             R free    0.2173   0.1990
+     Rms BondLength    0.0322   0.0165
+      Rms BondAngle    2.0375   1.6565
+1l2x
+                      Initial    Final
+           R factor    0.2515   0.2359
+             R free    0.2514   0.2512
+     Rms BondLength    0.0388   0.0141
+      Rms BondAngle    1.4518   1.5248
+1l3d
+                      Initial    Final
+           R factor    0.2435   0.2173
+             R free    0.2652   0.2418
+     Rms BondLength    0.0114   0.0093
+      Rms BondAngle    1.2187   1.6381
+1l4j
+                      Initial    Final
+           R factor    0.2287   0.2281
+             R free    0.2890   0.2807
+     Rms BondLength    0.0356   0.0082
+      Rms BondAngle    2.6141   1.5182
+1l6b
+                      Initial    Final
+           R factor    0.2773   0.2422
+             R free    0.2865   0.2649
+     Rms BondLength    0.0283   0.0101
+      Rms BondAngle    2.2405   1.9427
+1lc4
+                      Initial    Final
+           R factor    0.2122   0.1865
+             R free    0.2537   0.2287
+     Rms BondLength    0.0088   0.0058
+      Rms BondAngle    1.0204   1.0443
+1lnt
+                      Initial    Final
+           R factor    0.2140   0.2042
+             R free    0.2395   0.2414
+     Rms BondLength    0.0636   0.0222
+      Rms BondAngle    1.7498   2.2600
+1m69
+                      Initial    Final
+           R factor    0.2333   0.2132
+             R free    0.2312   0.2215
+     Rms BondLength    0.0371   0.0196
+      Rms BondAngle    5.2528   2.5125
+1mlx
+                      Initial    Final
+           R factor    0.1818   0.1664
+             R free    0.1877   0.1915
+     Rms BondLength    0.0341   0.0169
+      Rms BondAngle    3.3669   1.8878
+1msy
+                      Initial    Final
+           R factor    0.1758   0.1631
+             R free    0.1940   0.1825
+     Rms BondLength    0.0122   0.0127
+      Rms BondAngle    2.0029   1.6166
+1ngt
+                      Initial    Final
+           R factor    0.2198   0.2133
+             R free    0.2915   0.2859
+     Rms BondLength    0.0102   0.0071
+      Rms BondAngle    1.2940   1.3705
+1nlc
+                      Initial    Final
+           R factor    0.2275   0.1934
+             R free    0.2344   0.2507
+     Rms BondLength    0.0616   0.0280
+      Rms BondAngle    1.6428   1.9310
+1nr8
+                      Initial    Final
+           R factor    0.1886   0.1683
+             R free    0.2125   0.2031
+     Rms BondLength    0.0250   0.0152
+      Rms BondAngle    2.9994   2.3152
+1nta
+                      Initial    Final
+           R factor    0.3121   0.2515
+             R free    0.3575   0.3226
+     Rms BondLength    0.0256   0.0085
+      Rms BondAngle    1.6967   1.6893
+1nuj
+                      Initial    Final
+           R factor    0.2789   0.2180
+             R free    0.2910   0.2562
+     Rms BondLength    0.0181   0.0106
+      Rms BondAngle    1.1709   1.6437
+1nuv
+                      Initial    Final
+           R factor    0.2054   0.1955
+             R free    0.2126   0.2265
+     Rms BondLength    0.0508   0.0109
+      Rms BondAngle    1.1917   1.2439
+1nvy
+                      Initial    Final
+           R factor    0.2436   0.2467
+             R free    0.2822   0.2857
+     Rms BondLength    0.0823   0.0179
+      Rms BondAngle    2.4011   1.4475
+1nzg
+                      Initial    Final
+           R factor    0.1866   0.1734
+             R free    0.2247   0.2303
+     Rms BondLength    0.0357   0.0169
+      Rms BondAngle    1.8957   1.8892
+1o0k
+                      Initial    Final
+           R factor    0.2240   0.1867
+             R free    0.2382   0.2124
+     Rms BondLength    0.0462   0.0348
+      Rms BondAngle    2.7601   1.8976
+1p4y
+                      Initial    Final
+           R factor    0.2361   0.2317
+             R free    0.2799   0.2828
+     Rms BondLength    0.0278   0.0066
+      Rms BondAngle    1.1979   1.0657
+1p54
+                      Initial    Final
+           R factor    0.2232   0.2214
+             R free    0.2463   0.2506
+     Rms BondLength    0.0332   0.0089
+      Rms BondAngle    1.4007   1.4462
+1pjg
+                      Initial    Final
+           R factor    0.1757   0.1593
+             R free    0.1718   0.1702
+     Rms BondLength    0.1031   0.0599
+      Rms BondAngle    1.7830   1.7542
+1pjo
+                      Initial    Final
+           R factor    0.1724   0.1569
+             R free    0.1897   0.1844
+     Rms BondLength    0.0436   0.0192
+      Rms BondAngle    2.6923   1.7108
+1puy
+                      Initial    Final
+           R factor    0.2284   0.2165
+             R free    0.2598   0.2591
+     Rms BondLength    0.0515   0.0128
+      Rms BondAngle    2.7122   2.2448
+1pwf
+                      Initial    Final
+           R factor    0.1758   0.1636
+             R free    0.1914   0.1890
+     Rms BondLength    0.0279   0.0213
+      Rms BondAngle    2.7690   2.1307
+1q93
+                      Initial    Final
+           R factor    0.2196   0.2077
+             R free    0.2560   0.2504
+     Rms BondLength    0.0084   0.0081
+      Rms BondAngle    0.8527   1.3217
+1q96
+                      Initial    Final
+           R factor    0.1927   0.1863
+             R free    0.2317   0.2274
+     Rms BondLength    0.0093   0.0086
+      Rms BondAngle    0.8874   1.2707
+1q9a
+                      Initial    Final
+           R factor    0.1820   0.1685
+             R free    0.1866   0.1932
+     Rms BondLength    0.0099   0.0141
+      Rms BondAngle    1.6246   1.5896
+1qda
+                      Initial    Final
+           R factor    0.2091   0.1860
+             R free    0.2150   0.2201
+     Rms BondLength    0.0296   0.0189
+      Rms BondAngle    2.9532   2.5279
+1r3g
+                      Initial    Final
+           R factor    0.1847   0.1794
+             R free    0.2176   0.2209
+     Rms BondLength    0.0297   0.0199
+      Rms BondAngle    2.4026   1.9696
+1s23
+                      Initial    Final
+           R factor    0.2150   0.2125
+             R free    0.2830   0.2816
+     Rms BondLength    0.0172   0.0100
+      Rms BondAngle    2.5258   1.7934
+1s2r
+                      Initial    Final
+           R factor    0.2036   0.1983
+             R free    0.2380   0.2346
+     Rms BondLength    0.0123   0.0136
+      Rms BondAngle    1.1966   1.5584
+1sa9
+                      Initial    Final
+           R factor    0.2573   0.2278
+             R free    0.2669   0.2511
+     Rms BondLength    0.0086   0.0067
+      Rms BondAngle    1.0334   1.2344
+1t0d
+                      Initial    Final
+           R factor    0.2069   0.1986
+             R free    0.2633   0.2601
+     Rms BondLength    0.0089   0.0056
+      Rms BondAngle    1.1791   1.1631
+1t0e
+                      Initial    Final
+           R factor    0.2115   0.2043
+             R free    0.2396   0.2333
+     Rms BondLength    0.0236   0.0105
+      Rms BondAngle    2.1843   1.5030
+1ub8
+                      Initial    Final
+           R factor    0.1966   0.1850
+             R free    0.2304   0.2271
+     Rms BondLength    0.0093   0.0132
+      Rms BondAngle   13.3800  11.2197
+1ue2
+                      Initial    Final
+           R factor    0.2126   0.1927
+             R free    0.2396   0.2276
+     Rms BondLength    0.0091   0.0135
+      Rms BondAngle    5.1441   5.1056
+1vro
+                      Initial    Final
+           R factor    0.1578   0.1413
+             R free    0.1628   0.1492
+     Rms BondLength    0.0337   0.0272
+      Rms BondAngle    2.7097   2.3062
+1vzk
+                      Initial    Final
+           R factor    0.2263   0.2120
+             R free    0.2348   0.2470
+     Rms BondLength    0.0137   0.0106
+      Rms BondAngle    2.1894   2.0505
+1woe
+                      Initial    Final
+           R factor    0.1798   0.1552
+             R free    0.1950   0.1811
+     Rms BondLength    0.0091   0.0113
+      Rms BondAngle    0.9141   1.4592
+1x9c
+                      Initial    Final
+           R factor    0.2536   0.2307
+             R free    0.2699   0.2566
+     Rms BondLength    0.0096   0.0102
+      Rms BondAngle    6.5450   2.5858
+1xcs
+                      Initial    Final
+           R factor    0.2227   0.2133
+             R free    0.2832   0.2758
+     Rms BondLength    0.0264   0.0121
+      Rms BondAngle    2.0297   1.5076
+1xjr
+                      Initial    Final
+           R factor    0.2374   0.1998
+             R free    0.2526   0.2256
+     Rms BondLength    0.0117   0.0138
+      Rms BondAngle    1.9881   2.2803
+1y26
+                      Initial    Final
+           R factor    0.2994   0.2582
+             R free    0.3459   0.3260
+     Rms BondLength    0.0196   0.0070
+      Rms BondAngle    1.8169   1.4691
+1y27
+                      Initial    Final
+           R factor    0.2802   0.2326
+             R free    0.2993   0.2702
+     Rms BondLength    0.0130   0.0072
+      Rms BondAngle    2.2345   1.4379
+1y3o
+                      Initial    Final
+           R factor    0.2278   0.2080
+             R free    0.2898   0.2876
+     Rms BondLength    0.0098   0.0066
+      Rms BondAngle    1.1403   1.4716
+1y3s
+                      Initial    Final
+           R factor    0.2414   0.2160
+             R free    0.2647   0.2695
+     Rms BondLength    0.0609   0.0129
+      Rms BondAngle    1.1973   1.7701
+1y6t
+                      Initial    Final
+           R factor    0.2303   0.2159
+             R free    0.2595   0.2607
+     Rms BondLength    0.0578   0.0080
+      Rms BondAngle    1.8391   1.2311
+1y7f
+                      Initial    Final
+           R factor    0.1693   0.1605
+             R free    0.2045   0.2122
+     Rms BondLength    0.0173   0.0111
+      Rms BondAngle    1.8346   1.8187
+1y84
+                      Initial    Final
+           R factor    0.1654   0.1582
+             R free    0.1881   0.1946
+     Rms BondLength    0.0182   0.0127
+      Rms BondAngle    1.8651   1.6525
+1y86
+                      Initial    Final
+           R factor    0.1714   0.1625
+             R free    0.1909   0.1955
+     Rms BondLength    0.0112   0.0093
+      Rms BondAngle    1.3500   1.4151
+1y8l
+                      Initial    Final
+           R factor    0.1719   0.1648
+             R free    0.1969   0.1987
+     Rms BondLength    0.0578   0.0130
+      Rms BondAngle    1.6497   1.7802
+1y8v
+                      Initial    Final
+           R factor    0.1764   0.1695
+             R free    0.2131   0.2193
+     Rms BondLength    0.0131   0.0137
+      Rms BondAngle    1.6316   1.8863
+1y99
+                      Initial    Final
+           R factor    0.2228   0.2113
+             R free    0.2350   0.2477
+     Rms BondLength    0.0633   0.0068
+      Rms BondAngle    1.5295   1.0458
+1y9f
+                      Initial    Final
+           R factor    0.1600   0.1516
+             R free    0.1793   0.1837
+     Rms BondLength    0.0127   0.0109
+      Rms BondAngle    1.6801   1.7432
+1y9s
+                      Initial    Final
+           R factor    0.1599   0.1521
+             R free    0.2060   0.2066
+     Rms BondLength    0.0140   0.0127
+      Rms BondAngle    1.6261   1.7747
+1yb9
+                      Initial    Final
+           R factor    0.1598   0.1484
+             R free    0.1860   0.1925
+     Rms BondLength    0.0127   0.0113
+      Rms BondAngle    1.6156   1.9348
+1ybc
+                      Initial    Final
+           R factor    0.1697   0.1595
+             R free    0.2135   0.2226
+     Rms BondLength    0.0199   0.0087
+      Rms BondAngle    1.6007   1.5661
+1yls
+                      Initial    Final
+           R factor    0.2433   0.2146
+             R free    0.2635   0.2463
+     Rms BondLength    0.0216   0.0087
+      Rms BondAngle    2.0250   2.1312
+1yxp
+                      Initial    Final
+           R factor    0.2738   0.2481
+             R free    0.2918   0.2866
+     Rms BondLength    0.0096   0.0075
+      Rms BondAngle    1.1972   1.6772
+1z43
+                      Initial    Final
+           R factor    0.2642   0.2541
+             R free    0.3007   0.3223
+     Rms BondLength    0.0211   0.0071
+      Rms BondAngle    3.2305   1.8234
+1z7f
+                      Initial    Final
+           R factor    0.2577   0.2461
+             R free    0.2722   0.2716
+     Rms BondLength    0.0093   0.0078
+      Rms BondAngle    0.8207   1.1986
+1z7i
+                      Initial    Final
+           R factor    0.1885   0.1702
+             R free    0.2222   0.1984
+     Rms BondLength    0.0256   0.0194
+      Rms BondAngle    3.4618   2.2743
+1zci
+                      Initial    Final
+           R factor    0.2415   0.2266
+             R free    0.2465   0.2545
+     Rms BondLength    0.0184   0.0111
+      Rms BondAngle    1.2206   1.6275
+1zex
+                      Initial    Final
+           R factor    0.2564   0.2506
+             R free    0.2552   0.2601
+     Rms BondLength    0.0093   0.0081
+      Rms BondAngle    1.2240   1.4367
+1zey
+                      Initial    Final
+           R factor    0.2724   0.2804
+             R free    0.3207   0.3267
+     Rms BondLength    0.0456   0.0075
+      Rms BondAngle    2.8015   2.0471
+1zf0
+                      Initial    Final
+           R factor    0.2524   0.2396
+             R free    0.2727   0.2684
+     Rms BondLength    0.0300   0.0079
+      Rms BondAngle    0.9451   1.2566
+1zf1
+                      Initial    Final
+           R factor    0.2381   0.2349
+             R free    0.2567   0.2559
+     Rms BondLength    0.0158   0.0119
+      Rms BondAngle    2.0559   1.5606
+1zf3
+                      Initial    Final
+           R factor    0.2085   0.2104
+             R free    0.2322   0.2426
+     Rms BondLength    0.0286   0.0076
+      Rms BondAngle    1.6025   1.2169
+1zf4
+                      Initial    Final
+           R factor    0.2375   0.2372
+             R free    0.2806   0.2762
+     Rms BondLength    0.0118   0.0077
+      Rms BondAngle    1.7569   1.4432
+1zf6
+                      Initial    Final
+           R factor    0.2588   0.2574
+             R free    0.3051   0.2989
+     Rms BondLength    0.0655   0.0100
+      Rms BondAngle    2.7344   2.2587
+1zf7
+                      Initial    Final
+           R factor    0.2736   0.2655
+             R free    0.2808   0.2754
+     Rms BondLength    0.0164   0.0100
+      Rms BondAngle    0.9068   1.3339
+1zf8
+                      Initial    Final
+           R factor    0.2202   0.2243
+             R free    0.2640   0.2638
+     Rms BondLength    0.0205   0.0102
+      Rms BondAngle    2.0343   1.4579
+1zf9
+                      Initial    Final
+           R factor    0.2394   0.2465
+             R free    0.2663   0.2717
+     Rms BondLength    0.0364   0.0112
+      Rms BondAngle    2.8461   1.6055
+1zfa
+                      Initial    Final
+           R factor    0.2492   0.2659
+             R free    0.3033   0.3136
+     Rms BondLength    0.0766   0.0114
+      Rms BondAngle    3.2462   2.5229
+1zfb
+                      Initial    Final
+           R factor    0.2325   0.2315
+             R free    0.2834   0.2895
+     Rms BondLength    0.0660   0.0065
+      Rms BondAngle    1.1235   1.1156
+1zfg
+                      Initial    Final
+           R factor    0.3429   0.3294
+             R free    0.3516   0.3611
+     Rms BondLength    0.0139   0.0050
+      Rms BondAngle    1.7890   1.1948
+1zft
+                      Initial    Final
+           R factor    0.2403   0.2104
+             R free    0.2403   0.2224
+     Rms BondLength    0.0105   0.0118
+      Rms BondAngle    6.5642   4.3383
+1zfv
+                      Initial    Final
+           R factor    0.2344   0.2160
+             R free    0.2388   0.2378
+     Rms BondLength    0.0083   0.0078
+      Rms BondAngle    4.7522   1.8325
+1zfx
+                      Initial    Final
+           R factor    0.2491   0.2249
+             R free    0.2508   0.2496
+     Rms BondLength    0.0091   0.0092
+      Rms BondAngle    6.5214   3.2257
+1zph
+                      Initial    Final
+           R factor    0.2468   0.2491
+             R free    0.3246   0.3079
+     Rms BondLength    0.0323   0.0066
+      Rms BondAngle    2.3578   1.5195
+1zpi
+                      Initial    Final
+           R factor    0.2286   0.2291
+             R free    0.2736   0.2655
+     Rms BondLength    0.0301   0.0098
+      Rms BondAngle    2.4962   2.3564
+1zz5
+                      Initial    Final
+           R factor    0.2321   0.2018
+             R free    0.2771   0.2662
+     Rms BondLength    0.0187   0.0077
+      Rms BondAngle    1.3780   1.6056
+2a04
+                      Initial    Final
+           R factor    0.2522   0.2286
+             R free    0.3025   0.2850
+     Rms BondLength    0.0184   0.0079
+      Rms BondAngle    1.2024   1.1986
+2a43
+                      Initial    Final
+           R factor    0.1837   0.1705
+             R free    0.2058   0.1965
+     Rms BondLength    0.0454   0.0253
+      Rms BondAngle    2.0502   1.7500
+2b0k
+                      Initial    Final
+           R factor    0.2292   0.2127
+             R free    0.2854   0.2540
+     Rms BondLength    0.0098   0.0076
+      Rms BondAngle    0.9027   1.1637
+2b1d
+                      Initial    Final
+           R factor    0.2620   0.2453
+             R free    0.2963   0.2884
+     Rms BondLength    0.0160   0.0059
+      Rms BondAngle    1.9613   1.4906
+2b2b
+                      Initial    Final
+           R factor    0.2137   0.2283
+             R free    0.2631   0.2733
+     Rms BondLength    0.0514   0.0179
+      Rms BondAngle    3.0726   1.7446
+2b3e
+                      Initial    Final
+           R factor    0.2067   0.1989
+             R free    0.2394   0.2211
+     Rms BondLength    0.0124   0.0119
+      Rms BondAngle    2.1951   1.6743
+2b57
+                      Initial    Final
+           R factor    0.2297   0.2166
+             R free    0.2880   0.2908
+     Rms BondLength    0.0081   0.0078
+      Rms BondAngle   10.7465   7.8671
+2bcy
+                      Initial    Final
+           R factor    0.2493   0.2318
+             R free    0.2847   0.2728
+     Rms BondLength    0.0119   0.0088
+      Rms BondAngle    4.8242   2.2471
+2bcz
+                      Initial    Final
+           R factor    0.2574   0.2307
+             R free    0.2846   0.2705
+     Rms BondLength    0.0114   0.0106
+      Rms BondAngle    6.5903   4.3829
+2d2k
+                      Initial    Final
+           R factor    0.2484   0.2363
+             R free    0.2528   0.2514
+     Rms BondLength    0.0106   0.0082
+      Rms BondAngle    6.4118   2.2517
+2d2l
+                      Initial    Final
+           R factor    0.2383   0.2123
+             R free    0.2350   0.2278
+     Rms BondLength    0.0106   0.0105
+      Rms BondAngle    7.9588   3.8900
+2ees
+                      Initial    Final
+           R factor    0.1975   0.1920
+             R free    0.2326   0.2309
+     Rms BondLength    0.0211   0.0115
+      Rms BondAngle   12.1747   9.3877
+2eet
+                      Initial    Final
+           R factor    0.2075   0.1923
+             R free    0.2424   0.2417
+     Rms BondLength    0.0076   0.0103
+      Rms BondAngle   12.0857   9.0484
+2eeu
+                      Initial    Final
+           R factor    0.2290   0.2157
+             R free    0.2730   0.2649
+     Rms BondLength    0.0078   0.0089
+      Rms BondAngle   12.0945   9.1449
+2eev
+                      Initial    Final
+           R factor    0.2066   0.2014
+             R free    0.2521   0.2544
+     Rms BondLength    0.0110   0.0083
+      Rms BondAngle   12.1227   9.0157
+2eew
+                      Initial    Final
+           R factor    0.2415   0.2269
+             R free    0.2748   0.2703
+     Rms BondLength    0.0075   0.0079
+      Rms BondAngle    9.9997   7.2326
+2esj
+                      Initial    Final
+           R factor    0.2210   0.1999
+             R free    0.2752   0.2688
+     Rms BondLength    0.0172   0.0077
+      Rms BondAngle    2.0527   1.6560
+2et4
+                      Initial    Final
+           R factor    0.2127   0.1981
+             R free    0.2615   0.2562
+     Rms BondLength    0.0170   0.0076
+      Rms BondAngle    1.1815   1.3624
+2et5
+                      Initial    Final
+           R factor    0.2282   0.2125
+             R free    0.2549   0.2548
+     Rms BondLength    0.0182   0.0075
+      Rms BondAngle    1.5322   1.2543
+2et8
+                      Initial    Final
+           R factor    0.2530   0.2254
+             R free    0.2838   0.2744
+     Rms BondLength    0.0104   0.0075
+      Rms BondAngle    1.1516   1.2378
+2fcx
+                      Initial    Final
+           R factor    0.2646   0.2371
+             R free    0.2809   0.2767
+     Rms BondLength    0.0139   0.0111
+      Rms BondAngle    1.2515   1.9465
+2fcy
+                      Initial    Final
+           R factor    0.2323   0.2051
+             R free    0.2412   0.2423
+     Rms BondLength    0.0359   0.0091
+      Rms BondAngle    1.2808   1.6205
+2fcz
+                      Initial    Final
+           R factor    0.2363   0.2147
+             R free    0.2481   0.2500
+     Rms BondLength    0.0290   0.0088
+      Rms BondAngle    1.2231   1.4920
+2fd0
+                      Initial    Final
+           R factor    0.2463   0.2216
+             R free    0.2471   0.2510
+     Rms BondLength    0.0425   0.0159
+      Rms BondAngle    1.8392   2.2912
+2fgp
+                      Initial    Final
+           R factor    0.2459   0.2191
+             R free    0.2505   0.2438
+     Rms BondLength    0.0099   0.0090
+      Rms BondAngle    4.8032   2.8465
+2fii
+                      Initial    Final
+           R factor    0.2206   0.2000
+             R free    0.2356   0.2259
+     Rms BondLength    0.0341   0.0154
+      Rms BondAngle    3.0456   2.0077
+2fij
+                      Initial    Final
+           R factor    0.2309   0.2024
+             R free    0.2367   0.2310
+     Rms BondLength    0.0220   0.0220
+      Rms BondAngle   14.0816  12.7384
+2fil
+                      Initial    Final
+           R factor    0.3096   0.3066
+             R free    0.3193   0.3424
+     Rms BondLength    0.0214   0.0087
+      Rms BondAngle   15.1434   5.1697
+2fqn
+                      Initial    Final
+           R factor    0.2681   0.2553
+             R free    0.2982   0.2965
+     Rms BondLength    0.0098   0.0054
+      Rms BondAngle    9.2591   1.5189
+2g3s
+                      Initial    Final
+           R factor    0.2250   0.2196
+             R free    0.2798   0.2806
+     Rms BondLength    0.0080   0.0067
+      Rms BondAngle    0.8759   1.0183
+2g9c
+                      Initial    Final
+           R factor    0.2008   0.1940
+             R free    0.2326   0.2242
+     Rms BondLength    0.0173   0.0131
+      Rms BondAngle   12.1515   9.3590
+2gis
+                      Initial    Final
+           R factor    0.2421   0.2096
+             R free    0.2635   0.2488
+     Rms BondLength    0.0251   0.0078
+      Rms BondAngle    1.3562   1.5683
+2gq4
+                      Initial    Final
+           R factor    0.3899   0.2959
+             R free    0.4078   0.3310
+     Rms BondLength    0.0416   0.0219
+      Rms BondAngle    2.1251   2.1979
+2gq5
+                      Initial    Final
+           R factor    0.3916   0.2981
+             R free    0.4231   0.3444
+     Rms BondLength    0.0424   0.0188
+      Rms BondAngle    2.7672   2.2110
+2gq6
+                      Initial    Final
+           R factor    0.4063   0.3120
+             R free    0.4024   0.3270
+     Rms BondLength    0.0404   0.0220
+      Rms BondAngle    2.3834   2.3168
+2gq7
+                      Initial    Final
+           R factor    0.3773   0.2761
+             R free    0.4473   0.3506
+     Rms BondLength    0.0710   0.0186
+      Rms BondAngle    2.5273   2.0734
+2grb
+                      Initial    Final
+           R factor    0.2682   0.2207
+             R free    0.3020   0.2715
+     Rms BondLength    0.0693   0.0292
+      Rms BondAngle    1.6077   2.8398
+2gvr
+                      Initial    Final
+           R factor    0.2237   0.2034
+             R free    0.2691   0.2410
+     Rms BondLength    0.0091   0.0094
+      Rms BondAngle    1.0009   1.4993
+2gw0
+                      Initial    Final
+           R factor    0.1673   0.1607
+             R free    0.2135   0.1971
+     Rms BondLength    0.0499   0.0306
+      Rms BondAngle    1.7566   1.4468
+2gwq
+                      Initial    Final
+           R factor    0.2284   0.2211
+             R free    0.2853   0.2576
+     Rms BondLength    0.0566   0.0246
+      Rms BondAngle    0.6121   1.2509
+2gyx
+                      Initial    Final
+           R factor    0.2248   0.2197
+             R free    0.3081   0.2742
+     Rms BondLength    0.0135   0.0088
+      Rms BondAngle    1.7950   1.5866
+2hbn
+                      Initial    Final
+           R factor    0.2564   0.2410
+             R free    0.2706   0.2504
+     Rms BondLength    0.0484   0.0193
+      Rms BondAngle    1.8296   1.4026
+2hc7
+                      Initial    Final
+           R factor    0.1666   0.1574
+             R free    0.1854   0.1794
+     Rms BondLength    0.0198   0.0199
+      Rms BondAngle    2.3718   2.1207
+2hoj
+                      Initial    Final
+           R factor    0.2266   0.2084
+             R free    0.2564   0.2458
+     Rms BondLength    0.0245   0.0085
+      Rms BondAngle    1.5351   1.4430
+2hol
+                      Initial    Final
+           R factor    0.2012   0.1968
+             R free    0.2415   0.2400
+     Rms BondLength    0.0596   0.0098
+      Rms BondAngle    1.3967   1.1886
+2hom
+                      Initial    Final
+           R factor    0.2029   0.1804
+             R free    0.2628   0.2594
+     Rms BondLength    0.0195   0.0062
+      Rms BondAngle    1.3722   1.3129
+2hoo
+                      Initial    Final
+           R factor    0.2129   0.1965
+             R free    0.2714   0.2672
+     Rms BondLength    0.0274   0.0060
+      Rms BondAngle    1.4432   1.2125
+2i2i
+                      Initial    Final
+           R factor    0.2163   0.2092
+             R free    0.2939   0.2698
+     Rms BondLength    0.0120   0.0088
+      Rms BondAngle    2.1170   1.7910
+2i5a
+                      Initial    Final
+           R factor    0.2025   0.1971
+             R free    0.2754   0.2566
+     Rms BondLength    0.0144   0.0085
+      Rms BondAngle    1.9489   1.5818
+2jja
+                      Initial    Final
+           R factor    0.1968   0.1795
+             R free    0.2093   0.2173
+     Rms BondLength    0.0521   0.0333
+      Rms BondAngle    2.2153   3.6441
+2nlm
+                      Initial    Final
+           R factor    0.2499   0.2382
+             R free    0.3212   0.2875
+     Rms BondLength    0.0104   0.0076
+      Rms BondAngle    1.4656   1.3664
+2npy
+                      Initial    Final
+           R factor    0.2007   0.1856
+             R free    0.2183   0.2267
+     Rms BondLength    0.0086   0.0074
+      Rms BondAngle    4.7109   1.7168
+2o4f
+                      Initial    Final
+           R factor    0.2083   0.2097
+             R free    0.2581   0.2543
+     Rms BondLength    0.0286   0.0197
+      Rms BondAngle    1.6186   1.3400
+2obz
+                      Initial    Final
+           R factor    0.2268   0.2140
+             R free    0.2348   0.2281
+     Rms BondLength    0.0085   0.0182
+      Rms BondAngle    1.6164   2.1079
+2oe5
+                      Initial    Final
+           R factor    0.2191   0.2097
+             R free    0.2207   0.2409
+     Rms BondLength    0.0276   0.0098
+      Rms BondAngle    1.7742   1.4415
+2oe8
+                      Initial    Final
+           R factor    0.2258   0.2073
+             R free    0.2281   0.2543
+     Rms BondLength    0.0159   0.0082
+      Rms BondAngle    1.5928   1.3825
+2oeu
+                      Initial    Final
+           R factor    0.2005   0.1807
+             R free    0.2302   0.2196
+     Rms BondLength    0.0304   0.0087
+      Rms BondAngle    1.8941   1.5197
+2oij
+                      Initial    Final
+           R factor    0.2727   0.2410
+             R free    0.2777   0.2776
+     Rms BondLength    0.0077   0.0107
+      Rms BondAngle    0.9960   1.5778
+2oiy
+                      Initial    Final
+           R factor    0.2513   0.2331
+             R free    0.2587   0.2659
+     Rms BondLength    0.0319   0.0092
+      Rms BondAngle    1.1335   1.4522
+2orf
+                      Initial    Final
+           R factor    0.2288   0.2236
+             R free    0.2549   0.2577
+     Rms BondLength    0.0407   0.0082
+      Rms BondAngle    1.6677   1.5073
+2orh
+                      Initial    Final
+           R factor    0.2238   0.2221
+             R free    0.2739   0.2754
+     Rms BondLength    0.0165   0.0079
+      Rms BondAngle    1.0263   1.1106
+2oue
+                      Initial    Final
+           R factor    0.2629   0.2317
+             R free    0.2694   0.2555
+     Rms BondLength    0.0101   0.0101
+      Rms BondAngle    1.5299   1.6371
+2p7d
+                      Initial    Final
+           R factor    0.2277   0.2138
+             R free    0.2325   0.2308
+     Rms BondLength    0.0105   0.0079
+      Rms BondAngle    6.4784   2.5199
+2p7e
+                      Initial    Final
+           R factor    0.2568   0.2481
+             R free    0.2616   0.2605
+     Rms BondLength    0.0183   0.0089
+      Rms BondAngle    6.5333   2.5989
+2p7f
+                      Initial    Final
+           R factor    0.2215   0.2119
+             R free    0.2418   0.2459
+     Rms BondLength    0.0105   0.0076
+      Rms BondAngle    6.5525   2.9627
+2pkv
+                      Initial    Final
+           R factor    0.1503   0.1393
+             R free    0.1390   0.1556
+     Rms BondLength    0.0119   0.0123
+      Rms BondAngle    1.8776   1.4778
+2pl4
+                      Initial    Final
+           R factor    0.1794   0.1671
+             R free    0.1864   0.2073
+     Rms BondLength    0.0105   0.0103
+      Rms BondAngle    1.7843   1.6794
+2plb
+                      Initial    Final
+           R factor    0.2212   0.2067
+             R free    0.2354   0.2669
+     Rms BondLength    0.0184   0.0088
+      Rms BondAngle    3.2615   1.4746
+2pn4
+                      Initial    Final
+           R factor    0.2777   0.2544
+             R free    0.3395   0.3292
+     Rms BondLength    0.0163   0.0066
+      Rms BondAngle    1.9768   1.4114
+2pwt
+                      Initial    Final
+           R factor    0.2095   0.1907
+             R free    0.2313   0.2218
+     Rms BondLength    0.0306   0.0111
+      Rms BondAngle    1.7837   1.6408
+2q1o
+                      Initial    Final
+           R factor    0.1775   0.1696
+             R free    0.1846   0.1827
+     Rms BondLength    0.0168   0.0148
+      Rms BondAngle    2.0844   1.7394
+2q1r
+                      Initial    Final
+           R factor    0.2028   0.1955
+             R free    0.2104   0.2078
+     Rms BondLength    0.0436   0.0285
+      Rms BondAngle    2.0613   1.6160
+2qef
+                      Initial    Final
+           R factor    0.2221   0.2105
+             R free    0.2534   0.2557
+     Rms BondLength    0.0165   0.0116
+      Rms BondAngle    2.4120   2.6204
+2qeg
+                      Initial    Final
+           R factor    0.2436   0.2235
+             R free    0.2693   0.2638
+     Rms BondLength    0.0139   0.0123
+      Rms BondAngle    2.1158   2.5136
+2r1s
+                      Initial    Final
+           R factor    0.1485   0.1310
+             R free    0.1724   0.1636
+     Rms BondLength    0.0432   0.0207
+      Rms BondAngle    1.2736   1.8034
+2r20
+                      Initial    Final
+           R factor    0.1750   0.1559
+             R free    0.1868   0.1803
+     Rms BondLength    0.0327   0.0216
+      Rms BondAngle    1.2846   1.8770
+2r21
+                      Initial    Final
+           R factor    0.1629   0.1451
+             R free    0.1882   0.1753
+     Rms BondLength    0.0423   0.0159
+      Rms BondAngle    1.2596   1.8589
+2r22
+                      Initial    Final
+           R factor    0.1716   0.1576
+             R free    0.1915   0.1858
+     Rms BondLength    0.0338   0.0147
+      Rms BondAngle    0.7711   1.5677
+2v7r
+                      Initial    Final
+           R factor    0.2129   0.2028
+             R free    0.2066   0.2209
+     Rms BondLength    0.0109   0.0216
+      Rms BondAngle    1.6066   1.5068
+2vuq
+                      Initial    Final
+           R factor    0.2216   0.2130
+             R free    0.2208   0.2267
+     Rms BondLength    0.0098   0.0206
+      Rms BondAngle    1.5320   1.4573
+2xc6
+                      Initial    Final
+           R factor    0.2783   0.2478
+             R free    0.3025   0.2768
+     Rms BondLength    0.0343   0.0226
+      Rms BondAngle    4.3590   3.0453
+2xnw
+                      Initial    Final
+           R factor    0.2121   0.2076
+             R free    0.2440   0.2421
+     Rms BondLength    0.0124   0.0112
+      Rms BondAngle    1.8189   1.6822
+2xo0
+                      Initial    Final
+           R factor    0.2119   0.2107
+             R free    0.2599   0.2635
+     Rms BondLength    0.0147   0.0095
+      Rms BondAngle    1.9753   1.5271
+2ydh
+                      Initial    Final
+           R factor    0.2697   0.2470
+             R free    0.3218   0.3288
+     Rms BondLength    0.0205   0.0059
+      Rms BondAngle    1.8867   1.3131
+2ygh
+                      Initial    Final
+           R factor    0.1976   0.1949
+             R free    0.2544   0.2508
+     Rms BondLength    0.0168   0.0072
+      Rms BondAngle    1.8948   1.3952
+2zy6
+                      Initial    Final
+           R factor    0.2017   0.1865
+             R free    0.2312   0.2272
+     Rms BondLength    0.0235   0.0112
+      Rms BondAngle    1.1509   1.4116
+397d
+                      Initial    Final
+           R factor    0.1636   0.1542
+             R free    0.1871   0.1825
+     Rms BondLength    0.0191   0.0142
+      Rms BondAngle    1.7232   1.4210
+398d
+                      Initial    Final
+           R factor    0.2176   0.2156
+             R free    0.2767   0.2593
+     Rms BondLength    0.0128   0.0084
+      Rms BondAngle    1.5945   1.4103
+399d
+                      Initial    Final
+           R factor    0.1635   0.1464
+             R free    0.1992   0.1842
+     Rms BondLength    0.0106   0.0096
+      Rms BondAngle    1.5144   1.4920
+3ajk
+                      Initial    Final
+           R factor    0.1991   0.1997
+             R free    0.2508   0.2506
+     Rms BondLength    0.0281   0.0093
+      Rms BondAngle    3.0985   2.4661
+3b31
+                      Initial    Final
+           R factor    0.2318   0.2074
+             R free    0.2601   0.2526
+     Rms BondLength    0.0296   0.0079
+      Rms BondAngle    4.3567   3.6473
+3b58
+                      Initial    Final
+           R factor    0.2434   0.2295
+             R free    0.2618   0.2603
+     Rms BondLength    0.0101   0.0070
+      Rms BondAngle    6.4013   1.7881
+3b5a
+                      Initial    Final
+           R factor    0.2179   0.2059
+             R free    0.2347   0.2389
+     Rms BondLength    0.0115   0.0080
+      Rms BondAngle    6.4993   2.0545
+3b5f
+                      Initial    Final
+           R factor    0.2310   0.2150
+             R free    0.2543   0.2559
+     Rms BondLength    0.0109   0.0080
+      Rms BondAngle    6.5569   1.8805
+3b5s
+                      Initial    Final
+           R factor    0.2309   0.2197
+             R free    0.2426   0.2434
+     Rms BondLength    0.0129   0.0092
+      Rms BondAngle    6.5826   2.1494
+3b91
+                      Initial    Final
+           R factor    0.2225   0.2040
+             R free    0.2488   0.2491
+     Rms BondLength    0.0115   0.0074
+      Rms BondAngle    6.5866   1.9191
+3bbi
+                      Initial    Final
+           R factor    0.2278   0.2150
+             R free    0.2358   0.2341
+     Rms BondLength    0.0112   0.0088
+      Rms BondAngle    6.5539   2.1769
+3bbk
+                      Initial    Final
+           R factor    0.2059   0.1932
+             R free    0.2244   0.2271
+     Rms BondLength    0.0118   0.0078
+      Rms BondAngle    7.9238   3.0564
+3bbm
+                      Initial    Final
+           R factor    0.2093   0.1941
+             R free    0.2235   0.2175
+     Rms BondLength    0.0125   0.0079
+      Rms BondAngle    7.9178   1.8826
+3bnl
+                      Initial    Final
+           R factor    0.2141   0.2168
+             R free    0.2463   0.2395
+     Rms BondLength    0.0109   0.0066
+      Rms BondAngle   14.5573   2.2837
+3bnn
+                      Initial    Final
+           R factor    0.2320   0.2212
+             R free    0.2594   0.2629
+     Rms BondLength    0.0079   0.0068
+      Rms BondAngle    0.9822   1.1679
+3bno
+                      Initial    Final
+           R factor    0.2227   0.2023
+             R free    0.2598   0.2528
+     Rms BondLength    0.0100   0.0079
+      Rms BondAngle    1.2262   1.4599
+3bnp
+                      Initial    Final
+           R factor    0.2320   0.2229
+             R free    0.2604   0.2616
+     Rms BondLength    0.0077   0.0067
+      Rms BondAngle    0.9873   1.2567
+3bnq
+                      Initial    Final
+           R factor    0.2312   0.2092
+             R free    0.2594   0.2511
+     Rms BondLength    0.0155   0.0103
+      Rms BondAngle    1.3139   1.5319
+3bnr
+                      Initial    Final
+           R factor    0.2097   0.1962
+             R free    0.2433   0.2394
+     Rms BondLength    0.0167   0.0079
+      Rms BondAngle    1.3395   1.4364
+3bns
+                      Initial    Final
+           R factor    0.2419   0.2295
+             R free    0.2561   0.2550
+     Rms BondLength    0.0142   0.0080
+      Rms BondAngle    1.1780   1.3000
+3bse
+                      Initial    Final
+           R factor    0.2063   0.1841
+             R free    0.2160   0.2196
+     Rms BondLength    0.0342   0.0125
+      Rms BondAngle    1.2382   1.5551
+3c3z
+                      Initial    Final
+           R factor    0.2140   0.1953
+             R free    0.2211   0.2252
+     Rms BondLength    0.0112   0.0161
+      Rms BondAngle    1.4869   2.0248
+3c44
+                      Initial    Final
+           R factor    0.2222   0.2009
+             R free    0.2388   0.2410
+     Rms BondLength    0.0083   0.0080
+      Rms BondAngle    1.0733   1.4021
+3c5d
+                      Initial    Final
+           R factor    0.2316   0.1998
+             R free    0.2401   0.2375
+     Rms BondLength    0.0212   0.0137
+      Rms BondAngle    1.8997   2.2567
+3c7r
+                      Initial    Final
+           R factor    0.2430   0.2121
+             R free    0.2501   0.2529
+     Rms BondLength    0.0118   0.0116
+      Rms BondAngle    1.4074   1.9667
+3cdm
+                      Initial    Final
+           R factor    0.2187   0.2235
+             R free    0.2837   0.2742
+     Rms BondLength    0.0302   0.0109
+      Rms BondAngle    2.8341   1.4896
+3cgp
+                      Initial    Final
+           R factor    0.1999   0.1862
+             R free    0.2283   0.2162
+     Rms BondLength    0.0106   0.0155
+      Rms BondAngle    1.0822   1.6245
+3cgs
+                      Initial    Final
+           R factor    0.2246   0.2055
+             R free    0.2471   0.2435
+     Rms BondLength    0.0173   0.0114
+      Rms BondAngle    1.2520   1.5421
+3cjz
+                      Initial    Final
+           R factor    0.2447   0.2174
+             R free    0.2903   0.2921
+     Rms BondLength    0.0152   0.0085
+      Rms BondAngle    1.6152   1.5210
+3cqs
+                      Initial    Final
+           R factor    0.2192   0.2046
+             R free    0.2523   0.2462
+     Rms BondLength    0.0107   0.0080
+      Rms BondAngle    4.7707   1.6696
+3cr1
+                      Initial    Final
+           R factor    0.2205   0.2070
+             R free    0.2514   0.2491
+     Rms BondLength    0.0120   0.0089
+      Rms BondAngle    1.6418   1.6698
+3dvv
+                      Initial    Final
+           R factor    0.2644   0.2403
+             R free    0.2706   0.2867
+     Rms BondLength    0.0150   0.0075
+      Rms BondAngle    1.3484   1.5050
+3dvz
+                      Initial    Final
+           R factor    0.1916   0.1743
+             R free    0.1911   0.1836
+     Rms BondLength    0.0074   0.0131
+      Rms BondAngle    0.9356   1.6460
+3dw6
+                      Initial    Final
+           R factor    0.1575   0.1451
+             R free    0.1719   0.1680
+     Rms BondLength    0.0175   0.0116
+      Rms BondAngle    1.3268   1.7846
+3dw7
+                      Initial    Final
+           R factor    0.2010   0.1827
+             R free    0.2093   0.2012
+     Rms BondLength    0.0179   0.0152
+      Rms BondAngle    1.2087   1.9388
+3e5c
+                      Initial    Final
+           R factor    0.2093   0.1883
+             R free    0.2134   0.2146
+     Rms BondLength    0.0117   0.0077
+      Rms BondAngle    1.6848   1.3718
+3e5f
+                      Initial    Final
+           R factor    0.2171   0.1986
+             R free    0.2588   0.2555
+     Rms BondLength    0.0127   0.0076
+      Rms BondAngle    1.3775   1.4372
+3ey2
+                      Initial    Final
+           R factor    0.1754   0.1555
+             R free    0.1831   0.1696
+     Rms BondLength    0.0197   0.0153
+      Rms BondAngle    2.1540   1.8241
+3ey3
+                      Initial    Final
+           R factor    0.1913   0.1759
+             R free    0.2098   0.1977
+     Rms BondLength    0.0266   0.0171
+      Rms BondAngle    2.7863   2.3411
+3far
+                      Initial    Final
+           R factor    0.2486   0.2181
+             R free    0.3077   0.3080
+     Rms BondLength    0.0123   0.0083
+      Rms BondAngle    0.9570   1.6421
+3fl6
+                      Initial    Final
+           R factor    0.1827   0.1774
+             R free    0.2093   0.2117
+     Rms BondLength    0.0135   0.0174
+      Rms BondAngle   17.5748  12.7618
+3fo4
+                      Initial    Final
+           R factor    0.2276   0.2024
+             R free    0.2528   0.2378
+     Rms BondLength    0.0085   0.0103
+      Rms BondAngle   12.4423   9.5611
+3fo6
+                      Initial    Final
+           R factor    0.2293   0.2149
+             R free    0.2556   0.2629
+     Rms BondLength    0.0082   0.0084
+      Rms BondAngle   10.5736   8.0146
+3ft6
+                      Initial    Final
+           R factor    0.2273   0.2277
+             R free    0.2447   0.2533
+     Rms BondLength    0.0137   0.0126
+      Rms BondAngle   16.9322   6.7324
+3ftm
+                      Initial    Final
+           R factor    0.2157   0.2017
+             R free    0.2680   0.2736
+     Rms BondLength    0.0080   0.0072
+      Rms BondAngle    1.0412   1.2752
+3g4m
+                      Initial    Final
+           R factor    0.2335   0.2209
+             R free    0.2748   0.2798
+     Rms BondLength    0.0073   0.0083
+      Rms BondAngle   11.6075   8.4366
+3gao
+                      Initial    Final
+           R factor    0.2088   0.1862
+             R free    0.2379   0.2295
+     Rms BondLength    0.0079   0.0095
+      Rms BondAngle   12.5617   9.7060
+3ger
+                      Initial    Final
+           R factor    0.2201   0.2021
+             R free    0.2323   0.2203
+     Rms BondLength    0.0083   0.0127
+      Rms BondAngle   12.0890   9.2281
+3ges
+                      Initial    Final
+           R factor    0.2386   0.2269
+             R free    0.2726   0.2712
+     Rms BondLength    0.0084   0.0074
+      Rms BondAngle   10.0057   7.4074
+3gm7
+                      Initial    Final
+           R factor    0.3296   0.3083
+             R free    0.3489   0.3541
+     Rms BondLength    0.0097   0.0100
+      Rms BondAngle    3.0217   1.5738
+3gog
+                      Initial    Final
+           R factor    0.2170   0.1942
+             R free    0.2449   0.2434
+     Rms BondLength    0.0090   0.0084
+      Rms BondAngle   10.1474   7.5555
+3gsk
+                      Initial    Final
+           R factor    0.2219   0.2092
+             R free    0.2372   0.2271
+     Rms BondLength    0.0178   0.0181
+      Rms BondAngle    3.0008   2.7716
+3gvn
+                      Initial    Final
+           R factor    0.1984   0.1978
+             R free    0.2017   0.2171
+     Rms BondLength    0.0370   0.0188
+      Rms BondAngle    2.6889   1.5013
+3gx2
+                      Initial    Final
+           R factor    0.2494   0.2295
+             R free    0.3207   0.3069
+     Rms BondLength    0.0094   0.0068
+      Rms BondAngle    2.3585   1.3406
+3gx3
+                      Initial    Final
+           R factor    0.2317   0.2282
+             R free    0.2914   0.2893
+     Rms BondLength    0.0141   0.0073
+      Rms BondAngle    2.7348   1.5430
+3gx5
+                      Initial    Final
+           R factor    0.2396   0.2169
+             R free    0.2837   0.2721
+     Rms BondLength    0.0315   0.0077
+      Rms BondAngle    1.2865   1.4008
+3gx7
+                      Initial    Final
+           R factor    0.2491   0.2303
+             R free    0.2922   0.2834
+     Rms BondLength    0.0068   0.0063
+      Rms BondAngle    2.0872   1.2694
+3i5l
+                      Initial    Final
+           R factor    0.1321   0.1284
+             R free    0.1507   0.1496
+     Rms BondLength    0.0668   0.0212
+      Rms BondAngle    2.3148   1.9162
+3igt
+                      Initial    Final
+           R factor    0.2277   0.2346
+             R free    0.2647   0.2757
+     Rms BondLength    0.0057   0.0058
+      Rms BondAngle    0.8376   1.0010
+3iqn
+                      Initial    Final
+           R factor    0.2654   0.2434
+             R free    0.2876   0.2769
+     Rms BondLength    0.0096   0.0064
+      Rms BondAngle    1.3900   1.4268
+3iqp
+                      Initial    Final
+           R factor    0.2596   0.2333
+             R free    0.2742   0.2749
+     Rms BondLength    0.0356   0.0089
+      Rms BondAngle    1.4563   1.4940
+3iqr
+                      Initial    Final
+           R factor    0.2478   0.2282
+             R free    0.2927   0.2902
+     Rms BondLength    0.0254   0.0085
+      Rms BondAngle    1.4604   1.5478
+3k1v
+                      Initial    Final
+           R factor    0.2197   0.2089
+             R free    0.2491   0.2435
+     Rms BondLength    0.0254   0.0085
+      Rms BondAngle    1.3834   1.3277
+3la5
+                      Initial    Final
+           R factor    0.1773   0.1644
+             R free    0.1977   0.1844
+     Rms BondLength    0.0518   0.0107
+      Rms BondAngle    1.2062   1.3889
+3lpv
+                      Initial    Final
+           R factor    0.1678   0.1646
+             R free    0.1938   0.1914
+     Rms BondLength    0.0365   0.0118
+      Rms BondAngle    1.7977   1.5003
+3mja
+                      Initial    Final
+           R factor    0.2910   0.2705
+             R free    0.3028   0.2877
+     Rms BondLength    0.0188   0.0104
+      Rms BondAngle    1.0883   2.0740
+3nd3
+                      Initial    Final
+           R factor    0.2527   0.2283
+             R free    0.2860   0.2730
+     Rms BondLength    0.0133   0.0096
+      Rms BondAngle    1.1328   1.3827
+3nd4
+                      Initial    Final
+           R factor    0.1693   0.1654
+             R free    0.2157   0.2178
+     Rms BondLength    0.0361   0.0136
+      Rms BondAngle    1.1630   1.3357
+3nj7
+                      Initial    Final
+           R factor    0.2176   0.2110
+             R free    0.2477   0.2445
+     Rms BondLength    0.0100   0.0096
+      Rms BondAngle    1.2937   1.5646
+3nkb
+                      Initial    Final
+           R factor    0.2201   0.2068
+             R free    0.2414   0.2345
+     Rms BondLength    0.0929   0.0119
+      Rms BondAngle    1.1079   1.3473
+3nyp
+                      Initial    Final
+           R factor    0.1926   0.1777
+             R free    0.2004   0.1942
+     Rms BondLength    0.0488   0.0397
+      Rms BondAngle    2.0637   2.0740
+3nz7
+                      Initial    Final
+           R factor    0.1775   0.1644
+             R free    0.1782   0.1758
+     Rms BondLength    0.0414   0.0305
+      Rms BondAngle    1.7837   1.7270
+3ok2
+                      Initial    Final
+           R factor    0.2273   0.2133
+             R free    0.2363   0.2802
+     Rms BondLength    0.0219   0.0096
+      Rms BondAngle    2.6250   1.8133
+3opi
+                      Initial    Final
+           R factor    0.2018   0.1963
+             R free    0.2087   0.2079
+     Rms BondLength    0.0303   0.0211
+      Rms BondAngle    2.5852   2.5248
+3ot0
+                      Initial    Final
+           R factor    0.1589   0.1531
+             R free    0.1967   0.1885
+     Rms BondLength    0.0193   0.0117
+      Rms BondAngle    2.2641   2.3027
+3oz3
+                      Initial    Final
+           R factor    0.1848   0.1819
+             R free    0.2000   0.1910
+     Rms BondLength    0.0238   0.0165
+      Rms BondAngle    2.2417   2.4860
+3oz4
+                      Initial    Final
+           R factor    0.1955   0.1923
+             R free    0.2277   0.2244
+     Rms BondLength    0.0347   0.0185
+      Rms BondAngle    2.9195   3.4269
+3oz5
+                      Initial    Final
+           R factor    0.1699   0.1635
+             R free    0.1915   0.2075
+     Rms BondLength    0.0226   0.0188
+      Rms BondAngle    2.3319   2.4287
+3p4a
+                      Initial    Final
+           R factor    0.2086   0.1974
+             R free    0.2387   0.2257
+     Rms BondLength    0.0726   0.0309
+      Rms BondAngle    4.2290   3.9865
+3p4b
+                      Initial    Final
+           R factor    0.2472   0.2336
+             R free    0.2783   0.2758
+     Rms BondLength    0.0287   0.0183
+      Rms BondAngle    2.5728   2.9647
+3p4c
+                      Initial    Final
+           R factor    0.2248   0.2079
+             R free    0.2493   0.2364
+     Rms BondLength    0.0260   0.0199
+      Rms BondAngle    3.2363   3.0716
+3p59
+                      Initial    Final
+           R factor    0.3204   0.3226
+             R free    0.3507   0.3667
+     Rms BondLength    0.0289   0.0070
+      Rms BondAngle    9.3733   6.8482
+3pa0
+                      Initial    Final
+           R factor    0.2185   0.2012
+             R free    0.2069   0.2136
+     Rms BondLength    0.0253   0.0199
+      Rms BondAngle    2.4455   2.6229
+3q50
+                      Initial    Final
+           R factor    0.2082   0.1877
+             R free    0.2480   0.2360
+     Rms BondLength    0.0098   0.0111
+      Rms BondAngle    1.7575   1.8064
+3q61
+                      Initial    Final
+           R factor    0.1862   0.1842
+             R free    0.2118   0.2037
+     Rms BondLength    0.0331   0.0255
+      Rms BondAngle    2.1586   1.7876
+3qf8
+                      Initial    Final
+           R factor    0.2043   0.1939
+             R free    0.2383   0.2371
+     Rms BondLength    0.0484   0.0121
+      Rms BondAngle    3.9648   2.3116
+3qrn
+                      Initial    Final
+           R factor    0.1479   0.1448
+             R free    0.1528   0.1567
+     Rms BondLength    0.0250   0.0199
+      Rms BondAngle    4.9735   4.1459
+3qxr
+                      Initial    Final
+           R factor    0.1646   0.1721
+             R free    0.2116   0.2046
+     Rms BondLength    0.0766   0.0269
+      Rms BondAngle    2.9341   1.8714
+3r1d
+                      Initial    Final
+           R factor    0.2268   0.2202
+             R free    0.2593   0.2526
+     Rms BondLength    0.0242   0.0132
+      Rms BondAngle    2.3456   2.1673
+3rg5
+                      Initial    Final
+           R factor    0.2089   0.1988
+             R free    0.2463   0.2416
+     Rms BondLength    0.0124   0.0079
+      Rms BondAngle    1.7765   1.5298
+3s49
+                      Initial    Final
+           R factor    0.2397   0.2187
+             R free    0.2797   0.2811
+     Rms BondLength    0.0306   0.0136
+      Rms BondAngle    4.2084   2.9420
+3s4p
+                      Initial    Final
+           R factor    0.2420   0.2261
+             R free    0.2528   0.2503
+     Rms BondLength    0.0289   0.0076
+      Rms BondAngle    1.6493   1.4684
+3s7c
+                      Initial    Final
+           R factor    0.2008   0.1769
+             R free    0.2169   0.1987
+     Rms BondLength    0.0119   0.0108
+      Rms BondAngle    2.0257   1.9560
+3s8u
+                      Initial    Final
+           R factor    0.1898   0.1826
+             R free    0.2029   0.1982
+     Rms BondLength    0.0211   0.0124
+      Rms BondAngle    2.4377   1.5892
+3sd8
+                      Initial    Final
+           R factor    0.2167   0.2115
+             R free    0.2282   0.2347
+     Rms BondLength    0.0266   0.0132
+      Rms BondAngle    1.9019   1.6256
+3sj2
+                      Initial    Final
+           R factor    0.1880   0.1731
+             R free    0.2001   0.2003
+     Rms BondLength    0.0081   0.0131
+      Rms BondAngle    0.9959   1.5027
+3ssf
+                      Initial    Final
+           R factor    0.1996   0.1962
+             R free    0.2412   0.2398
+     Rms BondLength    0.0367   0.0122
+      Rms BondAngle    2.1435   1.6412
+3syw
+                      Initial    Final
+           R factor    0.1949   0.1832
+             R free    0.2173   0.2227
+     Rms BondLength    0.0101   0.0122
+      Rms BondAngle    1.0552   1.4119
+3szx
+                      Initial    Final
+           R factor    0.2267   0.2244
+             R free    0.2797   0.2867
+     Rms BondLength    0.0247   0.0065
+      Rms BondAngle    2.1844   1.1996
+3td0
+                      Initial    Final
+           R factor    0.2188   0.2070
+             R free    0.2501   0.2470
+     Rms BondLength    0.0180   0.0102
+      Rms BondAngle    1.1571   1.5109
+3td1
+                      Initial    Final
+           R factor    0.1964   0.1817
+             R free    0.2402   0.2374
+     Rms BondLength    0.0120   0.0088
+      Rms BondAngle    1.2141   1.4403
+3tvb
+                      Initial    Final
+           R factor    0.1772   0.1736
+             R free    0.2040   0.1989
+     Rms BondLength    0.0915   0.0717
+      Rms BondAngle    2.7620   1.6148
+3u2n
+                      Initial    Final
+           R factor    0.1902   0.1832
+             R free    0.2339   0.2294
+     Rms BondLength    0.1138   0.0228
+      Rms BondAngle    1.1744   1.6793
+3u38
+                      Initial    Final
+           R factor    0.1764   0.1776
+             R free    0.2470   0.2494
+     Rms BondLength    0.0290   0.0154
+      Rms BondAngle    5.8415   4.2403
+3ukb
+                      Initial    Final
+           R factor    0.1708   0.1689
+             R free    0.2216   0.2146
+     Rms BondLength    0.0239   0.0158
+      Rms BondAngle    2.3257   2.4239
+3ukc
+                      Initial    Final
+           R factor    0.2047   0.1995
+             R free    0.2151   0.2156
+     Rms BondLength    0.0148   0.0135
+      Rms BondAngle    2.5254   2.4769
+3uke
+                      Initial    Final
+           R factor    0.2011   0.1969
+             R free    0.2365   0.2299
+     Rms BondLength    0.0137   0.0122
+      Rms BondAngle    2.3152   2.2922
+3uyb
+                      Initial    Final
+           R factor    0.1516   0.1474
+             R free    0.1559   0.1505
+     Rms BondLength    0.0260   0.0247
+      Rms BondAngle    3.4040   2.8313
+3v06
+                      Initial    Final
+           R factor    0.1922   0.1930
+             R free    0.2299   0.2253
+     Rms BondLength    0.0313   0.0199
+      Rms BondAngle    2.4933   1.8277
+3v07
+                      Initial    Final
+           R factor    0.1865   0.1845
+             R free    0.2243   0.2205
+     Rms BondLength    0.0361   0.0279
+      Rms BondAngle    2.4767   1.7492
+3wru
+                      Initial    Final
+           R factor    0.2421   0.2178
+             R free    0.2611   0.2570
+     Rms BondLength    0.0223   0.0076
+      Rms BondAngle    1.6161   1.4661
+3zd4
+                      Initial    Final
+           R factor    0.2244   0.2058
+             R free    0.2483   0.2344
+     Rms BondLength    0.0071   0.0080
+      Rms BondAngle    1.2101   1.4907
+3zd5
+                      Initial    Final
+           R factor    0.2134   0.2018
+             R free    0.2386   0.2307
+     Rms BondLength    0.0072   0.0067
+      Rms BondAngle    1.2689   1.4295
+3zp8
+                      Initial    Final
+           R factor    0.2225   0.2044
+             R free    0.2436   0.2423
+     Rms BondLength    0.0438   0.0126
+      Rms BondAngle    1.1748   1.5296
+423d
+                      Initial    Final
+           R factor    0.1704   0.1566
+             R free    0.1658   0.1825
+     Rms BondLength    0.0229   0.0145
+      Rms BondAngle    2.3785   1.8295
+424d
+                      Initial    Final
+           R factor    0.2017   0.1982
+             R free    0.2212   0.2573
+     Rms BondLength    0.0081   0.0078
+      Rms BondAngle    1.0946   1.4122
+428d
+                      Initial    Final
+           R factor    0.2493   0.2266
+             R free    0.2912   0.2681
+     Rms BondLength    0.0131   0.0088
+      Rms BondAngle    0.9985   1.3560
+429d
+                      Initial    Final
+           R factor    0.2319   0.2237
+             R free    0.2639   0.2512
+     Rms BondLength    0.0108   0.0075
+      Rms BondAngle    1.3707   1.3332
+433d
+                      Initial    Final
+           R factor    0.2432   0.2473
+             R free    0.3016   0.2856
+     Rms BondLength    0.0122   0.0078
+      Rms BondAngle    1.2367   1.2071
+437d
+                      Initial    Final
+           R factor    0.2147   0.2059
+             R free    0.2618   0.2518
+     Rms BondLength    0.0191   0.0096
+      Rms BondAngle    1.6831   1.4824
+442d
+                      Initial    Final
+           R factor    0.1767   0.1597
+             R free    0.1809   0.1759
+     Rms BondLength    0.0366   0.0183
+      Rms BondAngle    3.5434   2.3765
+443d
+                      Initial    Final
+           R factor    0.1828   0.1733
+             R free    0.2016   0.1825
+     Rms BondLength    0.0456   0.0150
+      Rms BondAngle    4.7141   2.6149
+448d
+                      Initial    Final
+           R factor    0.2378   0.2213
+             R free    0.2716   0.2455
+     Rms BondLength    0.0174   0.0080
+      Rms BondAngle    1.8940   1.7967
+449d
+                      Initial    Final
+           R factor    0.2358   0.2217
+             R free    0.2855   0.2669
+     Rms BondLength    0.0173   0.0086
+      Rms BondAngle    1.7782   1.7735
+455d
+                      Initial    Final
+           R factor    0.1939   0.1834
+             R free    0.2582   0.2315
+     Rms BondLength    0.0129   0.0121
+      Rms BondAngle    1.8938   1.7886
+462d
+                      Initial    Final
+           R factor    0.2134   0.1789
+             R free    0.2234   0.2434
+     Rms BondLength    0.0717   0.0091
+      Rms BondAngle    1.2357   1.2500
+464d
+                      Initial    Final
+           R factor    0.2683   0.2450
+             R free    0.2829   0.2810
+     Rms BondLength    0.0272   0.0125
+      Rms BondAngle    2.1862   1.6498
+466d
+                      Initial    Final
+           R factor    0.1986   0.1794
+             R free    0.2095   0.2048
+     Rms BondLength    0.0242   0.0104
+      Rms BondAngle    1.7294   1.4234
+468d
+                      Initial    Final
+           R factor    0.1962   0.1744
+             R free    0.2375   0.2344
+     Rms BondLength    0.0301   0.0142
+      Rms BondAngle    4.0308   3.5866
+469d
+                      Initial    Final
+           R factor    0.1901   0.1688
+             R free    0.2464   0.2288
+     Rms BondLength    0.0320   0.0163
+      Rms BondAngle    4.2393   3.7382
+470d
+                      Initial    Final
+           R factor    0.1883   0.1645
+             R free    0.2316   0.2349
+     Rms BondLength    0.0345   0.0146
+      Rms BondAngle    4.0106   3.6417
+473d
+                      Initial    Final
+           R factor    0.1867   0.1842
+             R free    0.2558   0.2330
+     Rms BondLength    0.0417   0.0130
+      Rms BondAngle    2.8744   1.7631
+476d
+                      Initial    Final
+           R factor    0.2032   0.1921
+             R free    0.2172   0.2209
+     Rms BondLength    0.0535   0.0182
+      Rms BondAngle    1.4741   1.4620
+477d
+                      Initial    Final
+           R factor    0.1924   0.1776
+             R free    0.2332   0.2406
+     Rms BondLength    0.0215   0.0085
+      Rms BondAngle    1.3041   1.3654
+480d
+                      Initial    Final
+           R factor    0.1737   0.1489
+             R free    0.1917   0.1701
+     Rms BondLength    0.0062   0.0121
+      Rms BondAngle    0.8199   1.5934
+483d
+                      Initial    Final
+           R factor    0.1977   0.1838
+             R free    0.2152   0.2081
+     Rms BondLength    0.0100   0.0131
+      Rms BondAngle    1.7697   1.5038
+4ah1
+                      Initial    Final
+           R factor    0.1868   0.1873
+             R free    0.2507   0.2437
+     Rms BondLength    0.0344   0.0120
+      Rms BondAngle    3.1803   1.8171
+4c5x
+                      Initial    Final
+           R factor    0.2101   0.2032
+             R free    0.2161   0.2337
+     Rms BondLength    0.0232   0.0178
+      Rms BondAngle    2.6142   2.3194
+4c63
+                      Initial    Final
+           R factor    0.2023   0.1949
+             R free    0.2040   0.2041
+     Rms BondLength    0.0219   0.0138
+      Rms BondAngle    2.4311   2.1300
+4c64
+                      Initial    Final
+           R factor    0.2062   0.1992
+             R free    0.2310   0.2302
+     Rms BondLength    0.0173   0.0114
+      Rms BondAngle    2.0414   1.6765
+4dkz
+                      Initial    Final
+           R factor    0.2291   0.2052
+             R free    0.2362   0.2479
+     Rms BondLength    0.0323   0.0150
+      Rms BondAngle    3.2858   2.3425
+4e58
+                      Initial    Final
+           R factor    0.2589   0.2437
+             R free    0.2507   0.2779
+     Rms BondLength    0.0178   0.0101
+      Rms BondAngle    2.6218   2.5462
+4e59
+                      Initial    Final
+           R factor    0.2530   0.2455
+             R free    0.2468   0.2688
+     Rms BondLength    0.0119   0.0069
+      Rms BondAngle    1.4329   1.4353
+4e7y
+                      Initial    Final
+           R factor    0.1528   0.1547
+             R free    0.1885   0.1790
+     Rms BondLength    0.0371   0.0185
+      Rms BondAngle    5.9434   4.6275
+4e8s
+                      Initial    Final
+           R factor    0.1417   0.1353
+             R free    0.1616   0.1563
+     Rms BondLength    0.0231   0.0195
+      Rms BondAngle    4.7450   4.3696
+4e8x
+                      Initial    Final
+           R factor    0.2325   0.2186
+             R free    0.2724   0.2655
+     Rms BondLength    0.0384   0.0176
+      Rms BondAngle    2.6751   2.2887
+4e95
+                      Initial    Final
+           R factor    0.1806   0.1798
+             R free    0.2335   0.2434
+     Rms BondLength    0.0243   0.0163
+      Rms BondAngle    3.6371   2.5282
+4enc
+                      Initial    Final
+           R factor    0.2513   0.2255
+             R free    0.2789   0.2550
+     Rms BondLength    0.0124   0.0075
+      Rms BondAngle    0.9366   1.2526
+4f2x
+                      Initial    Final
+           R factor    0.2165   0.2089
+             R free    0.2622   0.2617
+     Rms BondLength    0.0201   0.0103
+      Rms BondAngle    2.0852   1.8784
+4f2y
+                      Initial    Final
+           R factor    0.2223   0.2141
+             R free    0.2611   0.2623
+     Rms BondLength    0.0378   0.0177
+      Rms BondAngle    1.5172   1.8833
+4f3u
+                      Initial    Final
+           R factor    0.2317   0.2243
+             R free    0.2600   0.2546
+     Rms BondLength    0.0297   0.0166
+      Rms BondAngle    2.1755   2.2283
+4f4n
+                      Initial    Final
+           R factor    0.1461   0.1434
+             R free    0.1741   0.1745
+     Rms BondLength    0.0272   0.0225
+      Rms BondAngle    2.4844   2.0092
+4f8u
+                      Initial    Final
+           R factor    0.2604   0.2413
+             R free    0.2648   0.2594
+     Rms BondLength    0.0140   0.0074
+      Rms BondAngle    1.0916   1.3495
+4f8v
+                      Initial    Final
+           R factor    0.2241   0.1983
+             R free    0.2559   0.2606
+     Rms BondLength    0.0141   0.0058
+      Rms BondAngle    1.2242   1.3002
+4fe5
+                      Initial    Final
+           R factor    0.2024   0.1835
+             R free    0.2252   0.2156
+     Rms BondLength    0.0073   0.0134
+      Rms BondAngle    8.7035   7.8107
+4fej
+                      Initial    Final
+           R factor    0.1775   0.1671
+             R free    0.2270   0.2188
+     Rms BondLength    0.0101   0.0118
+      Rms BondAngle    9.4012   8.0307
+4fel
+                      Initial    Final
+           R factor    0.1813   0.1750
+             R free    0.2204   0.2184
+     Rms BondLength    0.0082   0.0084
+      Rms BondAngle   10.5543   8.3129
+4fen
+                      Initial    Final
+           R factor    0.1690   0.1550
+             R free    0.1963   0.1861
+     Rms BondLength    0.0069   0.0126
+      Rms BondAngle    9.3681   8.4770
+4feo
+                      Initial    Final
+           R factor    0.1680   0.1599
+             R free    0.2171   0.2170
+     Rms BondLength    0.0087   0.0088
+      Rms BondAngle   10.5614   8.4258
+4fep
+                      Initial    Final
+           R factor    0.1750   0.1634
+             R free    0.2216   0.2175
+     Rms BondLength    0.0069   0.0094
+      Rms BondAngle   10.5600   8.5709
+4fnj
+                      Initial    Final
+           R factor    0.2042   0.2077
+             R free    0.2576   0.2564
+     Rms BondLength    0.0422   0.0073
+      Rms BondAngle    2.1786   1.4476
+4fxm
+                      Initial    Final
+           R factor    0.2116   0.2117
+             R free    0.2426   0.2412
+     Rms BondLength    0.0539   0.0418
+      Rms BondAngle    3.2252   1.9449
+4gju
+                      Initial    Final
+           R factor    0.2017   0.1815
+             R free    0.2118   0.2021
+     Rms BondLength    0.0201   0.0209
+      Rms BondAngle    2.8486   2.6535
+4glc
+                      Initial    Final
+           R factor    0.2232   0.2072
+             R free    0.2880   0.2571
+     Rms BondLength    0.0207   0.0160
+      Rms BondAngle    1.9850   2.3499
+4glg
+                      Initial    Final
+           R factor    0.2283   0.2019
+             R free    0.2560   0.2400
+     Rms BondLength    0.0108   0.0144
+      Rms BondAngle    2.1669   2.2707
+4glh
+                      Initial    Final
+           R factor    0.2410   0.2195
+             R free    0.2468   0.2333
+     Rms BondLength    0.0245   0.0171
+      Rms BondAngle    2.2411   2.4132
+4gre
+                      Initial    Final
+           R factor    0.2428   0.2418
+             R free    0.2557   0.2567
+     Rms BondLength    0.0101   0.0083
+      Rms BondAngle    1.3776   1.5556
+4hli
+                      Initial    Final
+           R factor    0.2367   0.2184
+             R free    0.3053   0.2627
+     Rms BondLength    0.0204   0.0143
+      Rms BondAngle    1.7082   2.3014
+4hqi
+                      Initial    Final
+           R factor    0.2528   0.2457
+             R free    0.2898   0.2865
+     Rms BondLength    0.0250   0.0114
+      Rms BondAngle    3.6598   2.9665
+4i9v
+                      Initial    Final
+           R factor    0.2019   0.1890
+             R free    0.2082   0.2067
+     Rms BondLength    0.0308   0.0237
+      Rms BondAngle    2.4603   2.7223
+4iii
+                      Initial    Final
+           R factor    0.1482   0.1409
+             R free    0.1583   0.1532
+     Rms BondLength    0.0226   0.0186
+      Rms BondAngle    4.7329   3.5662
+4ij0
+                      Initial    Final
+           R factor    0.1966   0.2004
+             R free    0.1978   0.2325
+     Rms BondLength    0.0514   0.0205
+      Rms BondAngle    3.8538   2.3682
+4itd
+                      Initial    Final
+           R factor    0.4257   0.3674
+             R free    0.4674   0.4756
+     Rms BondLength    0.0343   0.0048
+      Rms BondAngle    3.1178   1.6114
+4j50
+                      Initial    Final
+           R factor    0.1985   0.1813
+             R free    0.2031   0.1951
+     Rms BondLength    0.0074   0.0109
+      Rms BondAngle    0.9068   1.4377
+4jah
+                      Initial    Final
+           R factor    0.2132   0.2061
+             R free    0.2378   0.2317
+     Rms BondLength    0.0406   0.0212
+      Rms BondAngle    4.5380   3.6663
+4jf2
+                      Initial    Final
+           R factor    0.2198   0.2105
+             R free    0.2595   0.2551
+     Rms BondLength    0.0544   0.0094
+      Rms BondAngle    1.5242   1.1198
+4jrd
+                      Initial    Final
+           R factor    0.1695   0.1629
+             R free    0.1897   0.1865
+     Rms BondLength    0.0084   0.0103
+      Rms BondAngle    1.3440   1.2738
+4k31
+                      Initial    Final
+           R factor    0.2216   0.2116
+             R free    0.2551   0.2511
+     Rms BondLength    0.0098   0.0116
+      Rms BondAngle    1.1657   1.3385
+4kw0
+                      Initial    Final
+           R factor    0.2368   0.2265
+             R free    0.2589   0.2534
+     Rms BondLength    0.0221   0.0163
+      Rms BondAngle    2.4830   2.5975
+4kwx
+                      Initial    Final
+           R factor    0.2101   0.1924
+             R free    0.2070   0.2072
+     Rms BondLength    0.0125   0.0124
+      Rms BondAngle    0.9076   1.7426
+4kyy
+                      Initial    Final
+           R factor    0.2368   0.2147
+             R free    0.2479   0.2477
+     Rms BondLength    0.0952   0.0176
+      Rms BondAngle    0.9730   1.2960
+4l0a
+                      Initial    Final
+           R factor    0.1626   0.1654
+             R free    0.1850   0.2344
+     Rms BondLength    0.0680   0.0295
+      Rms BondAngle    5.4500   5.5703
+4l25
+                      Initial    Final
+           R factor    0.2248   0.1931
+             R free    0.2312   0.2072
+     Rms BondLength    0.0049   0.0143
+      Rms BondAngle    0.9218   1.5585
+4l26
+                      Initial    Final
+           R factor    0.2138   0.2005
+             R free    0.2568   0.2505
+     Rms BondLength    0.0084   0.0094
+      Rms BondAngle    1.2088   1.6257
+4l81
+                      Initial    Final
+           R factor    0.2057   0.1803
+             R free    0.2239   0.2095
+     Rms BondLength    0.0104   0.0131
+      Rms BondAngle    8.8366   6.9561
+4ltf
+                      Initial    Final
+           R factor    0.1305   0.1267
+             R free    0.1576   0.1531
+     Rms BondLength    0.0249   0.0189
+      Rms BondAngle    4.7065   4.3921
+4ltg
+                      Initial    Final
+           R factor    0.1312   0.1262
+             R free    0.1465   0.1446
+     Rms BondLength    0.0242   0.0188
+      Rms BondAngle    5.9749   5.3068
+4lth
+                      Initial    Final
+           R factor    0.1309   0.1282
+             R free    0.1494   0.1469
+     Rms BondLength    0.0272   0.0172
+      Rms BondAngle    5.5793   4.8684
+4lti
+                      Initial    Final
+           R factor    0.1311   0.1327
+             R free    0.1628   0.1616
+     Rms BondLength    0.0280   0.0161
+      Rms BondAngle    7.3002   6.2071
+4ltj
+                      Initial    Final
+           R factor    0.1464   0.1415
+             R free    0.1816   0.1818
+     Rms BondLength    0.0257   0.0143
+      Rms BondAngle    2.4263   2.3788
+4ltk
+                      Initial    Final
+           R factor    0.1364   0.1377
+             R free    0.1551   0.1523
+     Rms BondLength    0.0306   0.0184
+      Rms BondAngle    6.7278   5.9326
+4ltl
+                      Initial    Final
+           R factor    0.1505   0.1500
+             R free    0.1911   0.1900
+     Rms BondLength    0.0290   0.0124
+      Rms BondAngle    3.7498   2.8306
+4lx6
+                      Initial    Final
+           R factor    0.2545   0.2306
+             R free    0.2930   0.2862
+     Rms BondLength    0.0122   0.0077
+      Rms BondAngle    1.0238   1.2705
+4ly2
+                      Initial    Final
+           R factor    0.1781   0.1794
+             R free    0.2250   0.2057
+     Rms BondLength    0.0354   0.0160
+      Rms BondAngle    8.3003   6.4571
+4m3i
+                      Initial    Final
+           R factor    0.2468   0.2368
+             R free    0.2818   0.2661
+     Rms BondLength    0.0372   0.0169
+      Rms BondAngle    9.8280   7.5784
+4m3v
+                      Initial    Final
+           R factor    0.2429   0.2461
+             R free    0.3113   0.3128
+     Rms BondLength    0.0428   0.0277
+      Rms BondAngle   10.0713   8.0119
+4mce
+                      Initial    Final
+           R factor    0.3014   0.2867
+             R free    0.3439   0.3444
+     Rms BondLength    0.0081   0.0071
+      Rms BondAngle    1.0444   1.1968
+4mgw
+                      Initial    Final
+           R factor    0.2192   0.2078
+             R free    0.2829   0.2769
+     Rms BondLength    0.0467   0.0115
+      Rms BondAngle    4.3177   2.9737
+4mkw
+                      Initial    Final
+           R factor    0.2264   0.2099
+             R free    0.2523   0.2551
+     Rms BondLength    0.0220   0.0139
+      Rms BondAngle    2.3015   2.0465
+4ms5
+                      Initial    Final
+           R factor    0.2180   0.2230
+             R free    0.2487   0.2573
+     Rms BondLength    0.0174   0.0180
+      Rms BondAngle    3.7484   2.9592
+4msb
+                      Initial    Final
+           R factor    0.2396   0.2205
+             R free    0.2778   0.2740
+     Rms BondLength    0.0417   0.0159
+      Rms BondAngle    1.3690   1.3631
+4msr
+                      Initial    Final
+           R factor    0.1736   0.1730
+             R free    0.2162   0.2143
+     Rms BondLength    0.0349   0.0196
+      Rms BondAngle    1.8191   1.4876
+4nfo
+                      Initial    Final
+           R factor    0.2401   0.2346
+             R free    0.2672   0.2634
+     Rms BondLength    0.0115   0.0081
+      Rms BondAngle    1.4758   1.3416
+4nfp
+                      Initial    Final
+           R factor    0.2388   0.2266
+             R free    0.2668   0.2723
+     Rms BondLength    0.0158   0.0087
+      Rms BondAngle    1.9362   1.9142
+4nfq
+                      Initial    Final
+           R factor    0.2503   0.2402
+             R free    0.2727   0.2726
+     Rms BondLength    0.0134   0.0081
+      Rms BondAngle    2.4341   2.1521
+4nlf
+                      Initial    Final
+           R factor    0.1559   0.1518
+             R free    0.1679   0.1672
+     Rms BondLength    0.0105   0.0123
+      Rms BondAngle    1.5517   1.8375
+4nxh
+                      Initial    Final
+           R factor    0.1731   0.1648
+             R free    0.1872   0.1884
+     Rms BondLength    0.0395   0.0213
+      Rms BondAngle    2.4577   2.1835
+4nyd
+                      Initial    Final
+           R factor    0.2050   0.1862
+             R free    0.2616   0.2556
+     Rms BondLength    0.0114   0.0073
+      Rms BondAngle    1.3767   1.3017
+4o41
+                      Initial    Final
+           R factor    0.2096   0.1983
+             R free    0.2414   0.2344
+     Rms BondLength    0.0357   0.0203
+      Rms BondAngle    4.7504   4.0285
+4o5w
+                      Initial    Final
+           R factor    0.2177   0.2126
+             R free    0.2458   0.2359
+     Rms BondLength    0.0533   0.0171
+      Rms BondAngle    3.1446   2.4915
+4o5x
+                      Initial    Final
+           R factor    0.2360   0.2332
+             R free    0.2545   0.2507
+     Rms BondLength    0.0370   0.0144
+      Rms BondAngle    3.3600   2.4402
+4o5y
+                      Initial    Final
+           R factor    0.2263   0.2189
+             R free    0.2649   0.2729
+     Rms BondLength    0.0546   0.0143
+      Rms BondAngle    2.4156   1.8868
+4o5z
+                      Initial    Final
+           R factor    0.2226   0.2068
+             R free    0.2466   0.2684
+     Rms BondLength    0.0429   0.0112
+      Rms BondAngle    2.6708   1.9513
+4ocd
+                      Initial    Final
+           R factor    0.2475   0.2371
+             R free    0.2607   0.2523
+     Rms BondLength    0.0139   0.0104
+      Rms BondAngle    1.7038   2.0603
+4okl
+                      Initial    Final
+           R factor    0.2488   0.2269
+             R free    0.2674   0.2530
+     Rms BondLength    0.0079   0.0102
+      Rms BondAngle    0.8398   1.2622
+4p1d
+                      Initial    Final
+           R factor    0.2301   0.2241
+             R free    0.2475   0.2514
+     Rms BondLength    0.0360   0.0251
+      Rms BondAngle    2.1912   1.6170
+4p20
+                      Initial    Final
+           R factor    0.2199   0.2080
+             R free    0.2662   0.2600
+     Rms BondLength    0.0172   0.0070
+      Rms BondAngle    1.2363   1.4417
+4p3s
+                      Initial    Final
+           R factor    0.2100   0.1938
+             R free    0.2479   0.2503
+     Rms BondLength    0.0143   0.0097
+      Rms BondAngle    1.2842   1.6440
+4p3t
+                      Initial    Final
+           R factor    0.2435   0.2282
+             R free    0.2630   0.2619
+     Rms BondLength    0.0088   0.0094
+      Rms BondAngle    1.1443   1.4240
+4p3u
+                      Initial    Final
+           R factor    0.2597   0.2255
+             R free    0.2623   0.2594
+     Rms BondLength    0.0116   0.0056
+      Rms BondAngle    1.5232   1.4211
+4p43
+                      Initial    Final
+           R factor    0.2440   0.2244
+             R free    0.2674   0.2882
+     Rms BondLength    0.0093   0.0084
+      Rms BondAngle    0.8175   1.1223
+4p97
+                      Initial    Final
+           R factor    0.2068   0.1918
+             R free    0.2121   0.2237
+     Rms BondLength    0.0116   0.0094
+      Rms BondAngle    1.2562   1.4645
+4pcj
+                      Initial    Final
+           R factor    0.1962   0.1972
+             R free    0.2644   0.2580
+     Rms BondLength    0.0393   0.0096
+      Rms BondAngle    1.8624   1.5635
+4pwm
+                      Initial    Final
+           R factor    0.2210   0.2225
+             R free    0.2682   0.2668
+     Rms BondLength    0.0184   0.0082
+      Rms BondAngle    2.3542   2.0374
+4qc7
+                      Initial    Final
+           R factor    0.2257   0.2268
+             R free    0.2450   0.2448
+     Rms BondLength    0.0115   0.0090
+      Rms BondAngle    1.3339   1.6524
+4qkk
+                      Initial    Final
+           R factor    0.1911   0.1744
+             R free    0.1911   0.1771
+     Rms BondLength    0.0376   0.0189
+      Rms BondAngle    1.7671   2.3584
+4r44
+                      Initial    Final
+           R factor    0.2923   0.2944
+             R free    0.3354   0.3286
+     Rms BondLength    0.0922   0.0509
+      Rms BondAngle    1.3965   1.4951
+4r45
+                      Initial    Final
+           R factor    0.2921   0.2844
+             R free    0.3470   0.3423
+     Rms BondLength    0.0358   0.0217
+      Rms BondAngle    0.9864   1.5967
+4r49
+                      Initial    Final
+           R factor    0.2684   0.2651
+             R free    0.2775   0.2793
+     Rms BondLength    0.0445   0.0286
+      Rms BondAngle    1.8940   1.9774
+4r4a
+                      Initial    Final
+           R factor    0.2043   0.2030
+             R free    0.2260   0.2215
+     Rms BondLength    0.0336   0.0259
+      Rms BondAngle    1.8544   1.7952
+4r4d
+                      Initial    Final
+           R factor    0.3202   0.3192
+             R free    0.3344   0.3388
+     Rms BondLength    0.0584   0.0294
+      Rms BondAngle    2.2718   2.3987
+4r8j
+                      Initial    Final
+           R factor    0.1542   0.1504
+             R free    0.1605   0.1623
+     Rms BondLength    0.0180   0.0208
+      Rms BondAngle    2.4676   2.5657
+4rbq
+                      Initial    Final
+           R factor    0.1948   0.1851
+             R free    0.1936   0.1956
+     Rms BondLength    0.0267   0.0130
+      Rms BondAngle    0.9763   1.5378
+4rby
+                      Initial    Final
+           R factor    0.1669   0.1557
+             R free    0.1871   0.1717
+     Rms BondLength    0.0318   0.0197
+      Rms BondAngle    2.4454   2.0629
+4rbz
+                      Initial    Final
+           R factor    0.1768   0.1661
+             R free    0.2049   0.2045
+     Rms BondLength    0.0186   0.0170
+      Rms BondAngle    2.1129   1.8681
+4rc0
+                      Initial    Final
+           R factor    0.2026   0.1875
+             R free    0.2096   0.1948
+     Rms BondLength    0.0194   0.0169
+      Rms BondAngle    3.1059   2.6347
+4rhd
+                      Initial    Final
+           R factor    0.2204   0.2134
+             R free    0.2192   0.2137
+     Rms BondLength    0.0508   0.0234
+      Rms BondAngle    3.8604   3.1329
+4rne
+                      Initial    Final
+           R factor    0.1523   0.1526
+             R free    0.1517   0.1603
+     Rms BondLength    0.1277   0.0478
+      Rms BondAngle    1.5538   1.8076
+4rum
+                      Initial    Final
+           R factor    0.2194   0.2057
+             R free    0.2300   0.2404
+     Rms BondLength    0.0335   0.0106
+      Rms BondAngle    1.4049   1.5289
+4ts0
+                      Initial    Final
+           R factor    0.2433   0.2356
+             R free    0.2764   0.2765
+     Rms BondLength    0.0602   0.0105
+      Rms BondAngle    1.8249   1.5993
+4ts2
+                      Initial    Final
+           R factor    0.2276   0.2213
+             R free    0.2674   0.2741
+     Rms BondLength    0.0173   0.0077
+      Rms BondAngle    1.5877   1.4479
+4tzx
+                      Initial    Final
+           R factor    0.2654   0.2361
+             R free    0.2971   0.2986
+     Rms BondLength    0.0351   0.0075
+      Rms BondAngle    0.6340   1.2657
+4u34
+                      Initial    Final
+           R factor    0.1841   0.1692
+             R free    0.1968   0.1892
+     Rms BondLength    0.0064   0.0161
+      Rms BondAngle    1.2962   1.6341
+4u38
+                      Initial    Final
+           R factor    0.2051   0.2028
+             R free    0.2475   0.2456
+     Rms BondLength    0.0110   0.0097
+      Rms BondAngle    1.8592   1.8091
+4u3o
+                      Initial    Final
+           R factor    0.1735   0.1618
+             R free    0.1764   0.1769
+     Rms BondLength    0.0201   0.0112
+      Rms BondAngle    1.0629   1.4433
+4u3r
+                      Initial    Final
+           R factor    0.1791   0.1568
+             R free    0.2008   0.1835
+     Rms BondLength    0.0063   0.0190
+      Rms BondAngle    0.7660   1.2892
+4u5m
+                      Initial    Final
+           R factor    0.1767   0.1651
+             R free    0.1909   0.1857
+     Rms BondLength    0.0207   0.0144
+      Rms BondAngle    1.0720   1.4370
+4u6l
+                      Initial    Final
+           R factor    0.2418   0.2214
+             R free    0.2531   0.2653
+     Rms BondLength    0.0395   0.0100
+      Rms BondAngle    8.5822   1.8184
+4u78
+                      Initial    Final
+           R factor    0.1812   0.1616
+             R free    0.2180   0.2000
+     Rms BondLength    0.0330   0.0243
+      Rms BondAngle    0.7453   1.3118
+4u8a
+                      Initial    Final
+           R factor    0.2613   0.2620
+             R free    0.3275   0.3201
+     Rms BondLength    0.0205   0.0090
+      Rms BondAngle    2.8460   2.3995
+4u8b
+                      Initial    Final
+           R factor    0.2423   0.2419
+             R free    0.2479   0.2480
+     Rms BondLength    0.0266   0.0138
+      Rms BondAngle    2.6515   2.3955
+4u8c
+                      Initial    Final
+           R factor    0.2711   0.2694
+             R free    0.3211   0.3176
+     Rms BondLength    0.0228   0.0108
+      Rms BondAngle    2.2012   1.7349
+4u92
+                      Initial    Final
+           R factor    0.1307   0.1324
+             R free    0.1450   0.1459
+     Rms BondLength    0.0325   0.0283
+      Rms BondAngle    1.7396   1.7758
+4wo2
+                      Initial    Final
+           R factor    0.2060   0.1886
+             R free    0.2222   0.2226
+     Rms BondLength    0.0257   0.0173
+      Rms BondAngle    0.7362   1.1950
+4x18
+                      Initial    Final
+           R factor    0.1453   0.1425
+             R free    0.1383   0.1427
+     Rms BondLength    0.0173   0.0184
+      Rms BondAngle    2.6217   2.3241
+4xno
+                      Initial    Final
+           R factor    0.2125   0.2015
+             R free    0.2270   0.2177
+     Rms BondLength    0.0622   0.0197
+      Rms BondAngle    3.5400   2.3840
+4xqz
+                      Initial    Final
+           R factor    0.2522   0.2453
+             R free    0.3170   0.3048
+     Rms BondLength    0.0327   0.0085
+      Rms BondAngle    1.1438   1.1979
+4xw0
+                      Initial    Final
+           R factor    0.2256   0.2229
+             R free    0.2967   0.2866
+     Rms BondLength    0.0248   0.0088
+      Rms BondAngle    2.3981   2.2033
+4xw7
+                      Initial    Final
+           R factor    0.2689   0.2366
+             R free    0.2986   0.2874
+     Rms BondLength    0.0322   0.0076
+      Rms BondAngle    0.7969   1.2112
+4y27
+                      Initial    Final
+           R factor    0.1925   0.1829
+             R free    0.1980   0.1946
+     Rms BondLength    0.0150   0.0145
+      Rms BondAngle    1.5218   1.6829
+4ymc
+                      Initial    Final
+           R factor    0.1989   0.1855
+             R free    0.2578   0.2357
+     Rms BondLength    0.0222   0.0125
+      Rms BondAngle    4.6510   3.4503
+5axf
+                      Initial    Final
+           R factor    0.1643   0.1580
+             R free    0.1777   0.1746
+     Rms BondLength    0.0264   0.0229
+      Rms BondAngle    2.1921   2.0625
+5ay2
+                      Initial    Final
+           R factor    0.1715   0.1592
+             R free    0.1850   0.1793
+     Rms BondLength    0.0098   0.0152
+      Rms BondAngle    1.1006   1.6514
+5ay3
+                      Initial    Final
+           R factor    0.1797   0.1674
+             R free    0.1905   0.1867
+     Rms BondLength    0.0090   0.0156
+      Rms BondAngle    1.1756   1.7208
+5ay4
+                      Initial    Final
+           R factor    0.1567   0.1458
+             R free    0.1879   0.1818
+     Rms BondLength    0.0089   0.0100
+      Rms BondAngle    1.1738   1.6094
+5bjo
+                      Initial    Final
+           R factor    0.1793   0.1794
+             R free    0.2283   0.2286
+     Rms BondLength    0.0329   0.0086
+      Rms BondAngle    1.7426   1.3950
+5bjp
+                      Initial    Final
+           R factor    0.1907   0.1885
+             R free    0.2390   0.2341
+     Rms BondLength    0.0259   0.0094
+      Rms BondAngle    1.7186   1.3899
+5bws
+                      Initial    Final
+           R factor    0.1759   0.1639
+             R free    0.2282   0.2291
+     Rms BondLength    0.0114   0.0062
+      Rms BondAngle    0.9858   1.1496
+5c5w
+                      Initial    Final
+           R factor    0.2216   0.2078
+             R free    0.2053   0.2146
+     Rms BondLength    0.0095   0.0111
+      Rms BondAngle    1.4294   1.5510
+5ccw
+                      Initial    Final
+           R factor    0.2300   0.2219
+             R free    0.2539   0.2388
+     Rms BondLength    0.0439   0.0172
+      Rms BondAngle    3.6655   3.3544
+5ch0
+                      Initial    Final
+           R factor    0.1843   0.1733
+             R free    0.1811   0.1778
+     Rms BondLength    0.0309   0.0303
+      Rms BondAngle    2.6714   2.7797
+5cjy
+                      Initial    Final
+           R factor    0.2444   0.2213
+             R free    0.2644   0.2508
+     Rms BondLength    0.0213   0.0132
+      Rms BondAngle    1.4725   2.2613
+5d8t
+                      Initial    Final
+           R factor    0.1621   0.1603
+             R free    0.1789   0.1837
+     Rms BondLength    0.0336   0.0286
+      Rms BondAngle    4.1312   3.8649
+5da6
+                      Initial    Final
+           R factor    0.1919   0.1830
+             R free    0.2035   0.2000
+     Rms BondLength    0.0132   0.0129
+      Rms BondAngle    1.0930   1.4324
+5dam
+                      Initial    Final
+           R factor    0.1871   0.1789
+             R free    0.2829   0.2666
+     Rms BondLength    0.0113   0.0070
+      Rms BondAngle    1.8123   1.3693
+5dhb
+                      Initial    Final
+           R factor    0.1882   0.1878
+             R free    0.1966   0.1921
+     Rms BondLength    0.0332   0.0147
+      Rms BondAngle    3.8463   3.1423
+5dhc
+                      Initial    Final
+           R factor    0.1729   0.1744
+             R free    0.1968   0.1953
+     Rms BondLength    0.0413   0.0163
+      Rms BondAngle    3.1212   2.5489
+5do5
+                      Initial    Final
+           R factor    0.2271   0.2111
+             R free    0.2455   0.2321
+     Rms BondLength    0.0254   0.0185
+      Rms BondAngle    2.9957   2.4192
+5dqk
+                      Initial    Final
+           R factor    0.2321   0.2386
+             R free    0.2761   0.2750
+     Rms BondLength    0.0173   0.0082
+      Rms BondAngle    1.4865   1.4142
+5e36
+                      Initial    Final
+           R factor    0.1906   0.1407
+             R free    0.1965   0.1729
+     Rms BondLength    0.0355   0.0218
+      Rms BondAngle    2.6491   2.3349
+5ebi
+                      Initial    Final
+           R factor    0.1617   0.1502
+             R free    0.1891   0.1947
+     Rms BondLength    0.1475   0.0621
+      Rms BondAngle    2.1460   3.3067
+5emf
+                      Initial    Final
+           R factor    0.1752   0.1653
+             R free    0.1958   0.1947
+     Rms BondLength    0.0308   0.0231
+      Rms BondAngle    3.3632   3.0094
+5et2
+                      Initial    Final
+           R factor    0.1894   0.1625
+             R free    0.2017   0.1810
+     Rms BondLength    0.0128   0.0159
+      Rms BondAngle    3.2014   3.2550
+5ew4
+                      Initial    Final
+           R factor    0.2371   0.2261
+             R free    0.2559   0.2529
+     Rms BondLength    0.0326   0.0144
+      Rms BondAngle    0.9032   1.3376
+5ew7
+                      Initial    Final
+           R factor    0.2538   0.2356
+             R free    0.2684   0.2684
+     Rms BondLength    0.0328   0.0108
+      Rms BondAngle    0.8764   1.2324
+5fhj
+                      Initial    Final
+           R factor    0.2438   0.2193
+             R free    0.2596   0.2411
+     Rms BondLength    0.0660   0.0258
+      Rms BondAngle    0.7088   1.2716
+5fj0
+                      Initial    Final
+           R factor    0.2692   0.2380
+             R free    0.2958   0.2692
+     Rms BondLength    0.0052   0.0056
+      Rms BondAngle    0.7261   1.2106
+5fjc
+                      Initial    Final
+           R factor    0.2296   0.2152
+             R free    0.2632   0.2536
+     Rms BondLength    0.0700   0.0157
+      Rms BondAngle    1.2974   1.3626
+5fk1
+                      Initial    Final
+           R factor    0.3032   0.2543
+             R free    0.3080   0.2835
+     Rms BondLength    0.0310   0.0092
+      Rms BondAngle    0.9034   1.0925
+5fk2
+                      Initial    Final
+           R factor    0.2719   0.2279
+             R free    0.3086   0.2761
+     Rms BondLength    0.0194   0.0075
+      Rms BondAngle    0.8951   1.0729
+5fk3
+                      Initial    Final
+           R factor    0.2604   0.2255
+             R free    0.2999   0.2796
+     Rms BondLength    0.0317   0.0092
+      Rms BondAngle    0.9232   1.1643
+5fk4
+                      Initial    Final
+           R factor    0.4366   0.4311
+             R free    0.4396   0.4647
+     Rms BondLength    0.0494   0.0122
+      Rms BondAngle    1.5696   1.4704
+5fk6
+                      Initial    Final
+           R factor    0.2921   0.2323
+             R free    0.3162   0.2730
+     Rms BondLength    0.0309   0.0087
+      Rms BondAngle    0.8938   1.1692
+5fkd
+                      Initial    Final
+           R factor    0.3193   0.2872
+             R free    0.3420   0.3206
+     Rms BondLength    0.0217   0.0059
+      Rms BondAngle    0.8932   0.9334
+5fke
+                      Initial    Final
+           R factor    0.3507   0.2856
+             R free    0.3753   0.3264
+     Rms BondLength    0.0305   0.0072
+      Rms BondAngle    1.1227   1.0092
+5fkf
+                      Initial    Final
+           R factor    0.2637   0.2331
+             R free    0.2900   0.2683
+     Rms BondLength    0.0313   0.0083
+      Rms BondAngle    1.1565   1.0680
+5fkh
+                      Initial    Final
+           R factor    0.3083   0.2528
+             R free    0.3507   0.3079
+     Rms BondLength    0.0226   0.0072
+      Rms BondAngle    0.9038   0.9987
+5gsk
+                      Initial    Final
+           R factor    0.1738   0.1575
+             R free    0.1839   0.1690
+     Rms BondLength    0.0061   0.0147
+      Rms BondAngle    0.6981   1.3997
+5hbw
+                      Initial    Final
+           R factor    0.2264   0.2207
+             R free    0.2642   0.2732
+     Rms BondLength    0.0802   0.0210
+      Rms BondAngle    7.0290   5.7563
+5hbx
+                      Initial    Final
+           R factor    0.2142   0.2157
+             R free    0.2496   0.2457
+     Rms BondLength    0.0389   0.0158
+      Rms BondAngle    5.4364   4.3683
+5hby
+                      Initial    Final
+           R factor    0.1543   0.1547
+             R free    0.1662   0.1661
+     Rms BondLength    0.0322   0.0223
+      Rms BondAngle    3.2267   3.0412
+5hn2
+                      Initial    Final
+           R factor    0.1776   0.1719
+             R free    0.1761   0.1850
+     Rms BondLength    0.0230   0.0131
+      Rms BondAngle    2.4414   1.9563
+5hnj
+                      Initial    Final
+           R factor    0.1916   0.1845
+             R free    0.2067   0.2177
+     Rms BondLength    0.0194   0.0164
+      Rms BondAngle    2.0639   1.9226
+5hnq
+                      Initial    Final
+           R factor    0.2532   0.2482
+             R free    0.2835   0.2841
+     Rms BondLength    0.0228   0.0073
+      Rms BondAngle    2.7449   1.7981
+5ip8
+                      Initial    Final
+           R factor    0.1878   0.1885
+             R free    0.2199   0.2187
+     Rms BondLength    0.0211   0.0129
+      Rms BondAngle    2.5506   2.1759
+5iu5
+                      Initial    Final
+           R factor    0.2245   0.2163
+             R free    0.2714   0.2597
+     Rms BondLength    0.0159   0.0090
+      Rms BondAngle    3.1032   2.3664
+5iwj
+                      Initial    Final
+           R factor    0.2115   0.2032
+             R free    0.2773   0.2818
+     Rms BondLength    0.0273   0.0110
+      Rms BondAngle    3.5016   2.5957
+5ix7
+                      Initial    Final
+           R factor    0.2070   0.1927
+             R free    0.2169   0.2221
+     Rms BondLength    0.0097   0.0126
+      Rms BondAngle    0.8995   1.5147
+5iyg
+                      Initial    Final
+           R factor    0.2419   0.2412
+             R free    0.2697   0.2778
+     Rms BondLength    0.0200   0.0091
+      Rms BondAngle    2.0060   1.4568
+5iyj
+                      Initial    Final
+           R factor    0.2335   0.2275
+             R free    0.2523   0.2496
+     Rms BondLength    0.0204   0.0095
+      Rms BondAngle    1.7763   1.4052
+5jvw
+                      Initial    Final
+           R factor    0.2180   0.2039
+             R free    0.2669   0.2553
+     Rms BondLength    0.0267   0.0096
+      Rms BondAngle    2.0952   1.2972
+5krg
+                      Initial    Final
+           R factor    0.2078   0.2082
+             R free    0.2336   0.2292
+     Rms BondLength    0.0324   0.0137
+      Rms BondAngle    4.1855   3.3134
+5kx9
+                      Initial    Final
+           R factor    0.2258   0.2016
+             R free    0.2595   0.2608
+     Rms BondLength    0.0239   0.0067
+      Rms BondAngle    0.9580   1.1949
+5l00
+                      Initial    Final
+           R factor    0.2098   0.2109
+             R free    0.2396   0.2397
+     Rms BondLength    0.0389   0.0212
+      Rms BondAngle    2.8590   2.4083
+5lfs
+                      Initial    Final
+           R factor    0.1938   0.1907
+             R free    0.2144   0.2148
+     Rms BondLength    0.0345   0.0131
+      Rms BondAngle    9.3959   8.9980
+5lfx
+                      Initial    Final
+           R factor    0.1874   0.1826
+             R free    0.2145   0.2156
+     Rms BondLength    0.0489   0.0187
+      Rms BondAngle    2.5908   2.3042
+5lit
+                      Initial    Final
+           R factor    0.1562   0.1549
+             R free    0.1805   0.1805
+     Rms BondLength    0.0234   0.0134
+      Rms BondAngle    2.2783   1.9935
+5lqt
+                      Initial    Final
+           R factor    0.2717   0.2434
+             R free    0.2605   0.2523
+     Rms BondLength    0.0313   0.0144
+      Rms BondAngle    5.1130   4.3781
+5lr3
+                      Initial    Final
+           R factor    0.3139   0.2800
+             R free    0.3315   0.3272
+     Rms BondLength    0.0182   0.0078
+      Rms BondAngle    2.8537   2.3915
+5lr4
+                      Initial    Final
+           R factor    0.3378   0.3101
+             R free    0.3539   0.3492
+     Rms BondLength    0.0111   0.0102
+      Rms BondAngle    4.0301   3.0318
+5ls8
+                      Initial    Final
+           R factor    0.2248   0.2067
+             R free    0.2358   0.2258
+     Rms BondLength    0.0365   0.0229
+      Rms BondAngle    2.2631   2.7807
+5lys
+                      Initial    Final
+           R factor    0.2164   0.1928
+             R free    0.2372   0.2355
+     Rms BondLength    0.0194   0.0071
+      Rms BondAngle    1.0652   1.3761
+5lyu
+                      Initial    Final
+           R factor    0.2129   0.1921
+             R free    0.2650   0.2680
+     Rms BondLength    0.0444   0.0069
+      Rms BondAngle    1.0475   1.3548
+5lyv
+                      Initial    Final
+           R factor    0.2335   0.2098
+             R free    0.2674   0.2659
+     Rms BondLength    0.0186   0.0063
+      Rms BondAngle    1.3961   1.3575
+5mvk
+                      Initial    Final
+           R factor    0.2044   0.1941
+             R free    0.2142   0.2086
+     Rms BondLength    0.0160   0.0099
+      Rms BondAngle    1.3652   1.4727
+5mvl
+                      Initial    Final
+           R factor    0.2023   0.1889
+             R free    0.2040   0.2024
+     Rms BondLength    0.0279   0.0150
+      Rms BondAngle    1.2435   2.0346
+5mvp
+                      Initial    Final
+           R factor    0.2235   0.2110
+             R free    0.2607   0.2606
+     Rms BondLength    0.0384   0.0147
+      Rms BondAngle    1.2067   1.4277
+5mvq
+                      Initial    Final
+           R factor    0.1969   0.1869
+             R free    0.2044   0.1978
+     Rms BondLength    0.0266   0.0106
+      Rms BondAngle    1.1826   1.4704
+5mwi
+                      Initial    Final
+           R factor    0.2428   0.2344
+             R free    0.2784   0.2699
+     Rms BondLength    0.0196   0.0116
+      Rms BondAngle    2.0069   1.6237
+5nbe
+                      Initial    Final
+           R factor    0.1647   0.1566
+             R free    0.1907   0.1892
+     Rms BondLength    0.0245   0.0173
+      Rms BondAngle    2.7723   2.6473
+5ndh
+                      Initial    Final
+           R factor    0.2417   0.2303
+             R free    0.2593   0.2505
+     Rms BondLength    0.0197   0.0097
+      Rms BondAngle    2.2715   2.2176
+5ndi
+                      Initial    Final
+           R factor    0.2390   0.2139
+             R free    0.2777   0.2598
+     Rms BondLength    0.0161   0.0084
+      Rms BondAngle    1.6684   1.7059
+5neo
+                      Initial    Final
+           R factor    0.2524   0.2295
+             R free    0.2633   0.2500
+     Rms BondLength    0.0135   0.0117
+      Rms BondAngle    1.4672   2.0361
+5nep
+                      Initial    Final
+           R factor    0.2267   0.2100
+             R free    0.2445   0.2207
+     Rms BondLength    0.0159   0.0123
+      Rms BondAngle    1.8882   1.9861
+5neq
+                      Initial    Final
+           R factor    0.2399   0.2230
+             R free    0.2698   0.2395
+     Rms BondLength    0.0376   0.0111
+      Rms BondAngle    2.0813   1.9131
+5nex
+                      Initial    Final
+           R factor    0.2241   0.2067
+             R free    0.2411   0.2146
+     Rms BondLength    0.0219   0.0150
+      Rms BondAngle    1.8428   2.0141
+5nwq
+                      Initial    Final
+           R factor    0.2595   0.2404
+             R free    0.2732   0.2574
+     Rms BondLength    0.0403   0.0105
+      Rms BondAngle    1.4568   1.3951
+5nxt
+                      Initial    Final
+           R factor    0.1981   0.1875
+             R free    0.1942   0.1906
+     Rms BondLength    0.0121   0.0149
+      Rms BondAngle    1.4964   1.6268
+5ny8
+                      Initial    Final
+           R factor    0.2570   0.2295
+             R free    0.2999   0.2718
+     Rms BondLength    0.0147   0.0076
+      Rms BondAngle    1.9320   1.3805
+5nz3
+                      Initial    Final
+           R factor    0.2899   0.2529
+             R free    0.3184   0.2936
+     Rms BondLength    0.0216   0.0072
+      Rms BondAngle    1.7926   1.4378
+5nz6
+                      Initial    Final
+           R factor    0.2497   0.2044
+             R free    0.2648   0.2244
+     Rms BondLength    0.0165   0.0112
+      Rms BondAngle    1.9187   2.3665
+5nzd
+                      Initial    Final
+           R factor    0.2474   0.2284
+             R free    0.2554   0.2408
+     Rms BondLength    0.0345   0.0085
+      Rms BondAngle    1.9412   1.6295
+5o62
+                      Initial    Final
+           R factor    0.2721   0.2457
+             R free    0.3168   0.3122
+     Rms BondLength    0.0186   0.0076
+      Rms BondAngle    2.0498   1.5556
+5o69
+                      Initial    Final
+           R factor    0.2939   0.2539
+             R free    0.3224   0.2798
+     Rms BondLength    0.0143   0.0063
+      Rms BondAngle    2.0565   1.5451
+5t3l
+                      Initial    Final
+           R factor    0.2009   0.1974
+             R free    0.2149   0.2238
+     Rms BondLength    0.0109   0.0099
+      Rms BondAngle    1.6293   1.6983
+5t5a
+                      Initial    Final
+           R factor    0.2047   0.1892
+             R free    0.2053   0.2148
+     Rms BondLength    0.0325   0.0165
+      Rms BondAngle    2.0141   1.6806
+5tdj
+                      Initial    Final
+           R factor    0.2186   0.2115
+             R free    0.2300   0.2438
+     Rms BondLength    0.0108   0.0097
+      Rms BondAngle    1.8661   1.7712
+5tdk
+                      Initial    Final
+           R factor    0.2154   0.2113
+             R free    0.2205   0.2246
+     Rms BondLength    0.0357   0.0148
+      Rms BondAngle    1.3406   1.3707
+5tko
+                      Initial    Final
+           R factor    0.1994   0.1947
+             R free    0.2041   0.2088
+     Rms BondLength    0.0307   0.0123
+      Rms BondAngle    1.6285   1.5935
+5u0q
+                      Initial    Final
+           R factor    0.2079   0.1993
+             R free    0.2174   0.2263
+     Rms BondLength    0.0349   0.0133
+      Rms BondAngle    1.6757   1.5666
+5ued
+                      Initial    Final
+           R factor    0.2125   0.2114
+             R free    0.2331   0.2311
+     Rms BondLength    0.0308   0.0141
+      Rms BondAngle    2.6710   1.7897
+5uee
+                      Initial    Final
+           R factor    0.2339   0.2343
+             R free    0.2734   0.2723
+     Rms BondLength    0.0256   0.0085
+      Rms BondAngle    2.7652   1.5824
+5ux3
+                      Initial    Final
+           R factor    0.2261   0.2206
+             R free    0.2667   0.2628
+     Rms BondLength    0.0299   0.0094
+      Rms BondAngle    3.2231   2.1286
+5uz6
+                      Initial    Final
+           R factor    0.2230   0.2243
+             R free    0.2685   0.2653
+     Rms BondLength    0.0190   0.0076
+      Rms BondAngle    2.2526   1.6269
+5uza
+                      Initial    Final
+           R factor    0.2676   0.2292
+             R free    0.2891   0.2804
+     Rms BondLength    0.0120   0.0074
+      Rms BondAngle    0.7946   1.4452
+5v0h
+                      Initial    Final
+           R factor    0.2298   0.2284
+             R free    0.2741   0.2580
+     Rms BondLength    0.0332   0.0124
+      Rms BondAngle    3.0689   2.5184
+5v0j
+                      Initial    Final
+           R factor    0.2395   0.2401
+             R free    0.2718   0.2687
+     Rms BondLength    0.0384   0.0176
+      Rms BondAngle    3.6085   3.1554
+5v0k
+                      Initial    Final
+           R factor    0.1774   0.1770
+             R free    0.2179   0.2164
+     Rms BondLength    0.0338   0.0153
+      Rms BondAngle    3.3182   2.9097
+5v0o
+                      Initial    Final
+           R factor    0.2235   0.2187
+             R free    0.2943   0.2767
+     Rms BondLength    0.0177   0.0077
+      Rms BondAngle    2.4805   1.6761
+5v1k
+                      Initial    Final
+           R factor    0.1813   0.1666
+             R free    0.1717   0.1813
+     Rms BondLength    0.0369   0.0224
+      Rms BondAngle    2.5506   2.0432
+5v1l
+                      Initial    Final
+           R factor    0.1735   0.1655
+             R free    0.1778   0.1860
+     Rms BondLength    0.0375   0.0227
+      Rms BondAngle    2.8186   1.8035
+5v2h
+                      Initial    Final
+           R factor    0.1895   0.1805
+             R free    0.1948   0.1892
+     Rms BondLength    0.0189   0.0186
+      Rms BondAngle    1.6971   1.8981
+5v9z
+                      Initial    Final
+           R factor    0.2213   0.2191
+             R free    0.2842   0.2883
+     Rms BondLength    0.0238   0.0077
+      Rms BondAngle    2.4902   1.6969
+5vcf
+                      Initial    Final
+           R factor    0.1632   0.1628
+             R free    0.2126   0.2146
+     Rms BondLength    0.0133   0.0076
+      Rms BondAngle    1.9915   1.9099
+5vci
+                      Initial    Final
+           R factor    0.1622   0.1593
+             R free    0.2115   0.2139
+     Rms BondLength    0.0155   0.0088
+      Rms BondAngle    1.8385   2.0012
+5vj9
+                      Initial    Final
+           R factor    0.1929   0.1944
+             R free    0.2351   0.2348
+     Rms BondLength    0.0269   0.0111
+      Rms BondAngle    1.7550   1.4601
+5vjb
+                      Initial    Final
+           R factor    0.2193   0.2180
+             R free    0.2394   0.2368
+     Rms BondLength    0.0149   0.0090
+      Rms BondAngle    1.7882   1.6063
+5vxq
+                      Initial    Final
+           R factor    0.1643   0.1548
+             R free    0.1850   0.1825
+     Rms BondLength    0.0075   0.0079
+      Rms BondAngle    1.1746   1.2549
+5vy7
+                      Initial    Final
+           R factor    0.2397   0.2137
+             R free    0.2562   0.2404
+     Rms BondLength    0.0426   0.0167
+      Rms BondAngle    4.3333   3.8698
+5w1z
+                      Initial    Final
+           R factor    0.2069   0.2093
+             R free    0.2332   0.2329
+     Rms BondLength    0.0477   0.0168
+      Rms BondAngle    3.3745   2.8528
+5w20
+                      Initial    Final
+           R factor    0.1476   0.1472
+             R free    0.1821   0.1818
+     Rms BondLength    0.0290   0.0189
+      Rms BondAngle    2.4186   2.3425
+5wsq
+                      Initial    Final
+           R factor    0.1911   0.1755
+             R free    0.2075   0.1930
+     Rms BondLength    0.0093   0.0141
+      Rms BondAngle    0.9360   1.5055
+5wv7
+                      Initial    Final
+           R factor    0.2352   0.2246
+             R free    0.2588   0.2549
+     Rms BondLength    0.0130   0.0106
+      Rms BondAngle    1.1902   1.3966
+5xk1
+                      Initial    Final
+           R factor    0.1739   0.1650
+             R free    0.1887   0.1823
+     Rms BondLength    0.0101   0.0142
+      Rms BondAngle    0.9428   1.4821
+5xuv
+                      Initial    Final
+           R factor    0.2024   0.2007
+             R free    0.2137   0.2070
+     Rms BondLength    0.1119   0.0391
+      Rms BondAngle    8.4963   5.2835
+5z1h
+                      Initial    Final
+           R factor    0.2342   0.2166
+             R free    0.2681   0.2821
+     Rms BondLength    0.0137   0.0072
+      Rms BondAngle    1.1576   1.4031
+5z1i
+                      Initial    Final
+           R factor    0.2082   0.1894
+             R free    0.2297   0.2311
+     Rms BondLength    0.0174   0.0091
+      Rms BondAngle    1.3868   1.4772
+5z71
+                      Initial    Final
+           R factor    0.2860   0.2679
+             R free    0.3224   0.3367
+     Rms BondLength    0.0118   0.0084
+      Rms BondAngle    1.2740   1.4789
+5zas
+                      Initial    Final
+           R factor    0.1708   0.1521
+             R free    0.1768   0.1606
+     Rms BondLength    0.0209   0.0155
+      Rms BondAngle    1.4481   1.6709
+5zat
+                      Initial    Final
+           R factor    0.2162   0.1998
+             R free    0.2247   0.2230
+     Rms BondLength    0.0210   0.0256
+      Rms BondAngle    1.5460   2.1652
+5zeg
+                      Initial    Final
+           R factor    0.2140   0.2082
+             R free    0.2411   0.2375
+     Rms BondLength    0.0123   0.0073
+      Rms BondAngle    1.3558   1.3427
+5zei
+                      Initial    Final
+           R factor    0.2232   0.2126
+             R free    0.2828   0.2792
+     Rms BondLength    0.0140   0.0106
+      Rms BondAngle    1.2877   1.5536
+6a85
+                      Initial    Final
+           R factor    0.1741   0.1568
+             R free    0.1798   0.1742
+     Rms BondLength    0.0302   0.0176
+      Rms BondAngle    1.2023   1.6994
+6adv
+                      Initial    Final
+           R factor    0.2586   0.2571
+             R free    0.2994   0.3017
+     Rms BondLength    0.0197   0.0081
+      Rms BondAngle    2.6742   2.3931
+6aqt
+                      Initial    Final
+           R factor    0.2350   0.2856
+             R free    0.2483   0.3031
+     Rms BondLength    0.0097   0.0276
+      Rms BondAngle    1.7051   3.4547
+6aqv
+                      Initial    Final
+           R factor    0.2131   0.1954
+             R free    0.2087   0.2080
+     Rms BondLength    0.0099   0.0135
+      Rms BondAngle    1.5881   2.0248
+6aqw
+                      Initial    Final
+           R factor    0.2265   0.2118
+             R free    0.2004   0.1943
+     Rms BondLength    0.0103   0.0141
+      Rms BondAngle    1.5130   1.9610
+6aqx
+                      Initial    Final
+           R factor    0.3136   0.3066
+             R free    0.2852   0.3142
+     Rms BondLength    0.0086   0.0122
+      Rms BondAngle    1.8839   2.3663
+6au4
+                      Initial    Final
+           R factor    0.2809   0.2593
+             R free    0.2811   0.2711
+     Rms BondLength    0.0223   0.0114
+      Rms BondAngle    1.1409   1.3658
+6bgb
+                      Initial    Final
+           R factor    0.2697   0.2499
+             R free    0.2875   0.2944
+     Rms BondLength    0.0067   0.0079
+      Rms BondAngle    2.5683   2.5823
+6c8d
+                      Initial    Final
+           R factor    0.2236   0.2233
+             R free    0.2789   0.2769
+     Rms BondLength    0.0389   0.0105
+      Rms BondAngle    3.4203   2.1218
+6c8e
+                      Initial    Final
+           R factor    0.2650   0.2608
+             R free    0.2862   0.2788
+     Rms BondLength    0.0550   0.0168
+      Rms BondAngle    5.3864   4.1489
+6c8i
+                      Initial    Final
+           R factor    0.2337   0.2321
+             R free    0.2850   0.2802
+     Rms BondLength    0.0334   0.0146
+      Rms BondAngle    5.6171   4.1385
+6c8j
+                      Initial    Final
+           R factor    0.2131   0.2133
+             R free    0.2460   0.2454
+     Rms BondLength    0.0383   0.0188
+      Rms BondAngle    5.6377   4.2922
+6c8k
+                      Initial    Final
+           R factor    0.2451   0.2346
+             R free    0.3086   0.2891
+     Rms BondLength    0.0432   0.0088
+      Rms BondAngle    3.8667   2.7614
+6c8l
+                      Initial    Final
+           R factor    0.1895   0.1736
+             R free    0.2748   0.2597
+     Rms BondLength    0.0368   0.0126
+      Rms BondAngle    4.2589   3.1729
+6c8m
+                      Initial    Final
+           R factor    0.2490   0.2408
+             R free    0.2672   0.2637
+     Rms BondLength    0.0328   0.0109
+      Rms BondAngle    4.6434   3.1875
+6c8n
+                      Initial    Final
+           R factor    0.2515   0.2511
+             R free    0.2981   0.2913
+     Rms BondLength    0.0531   0.0169
+      Rms BondAngle    5.6609   4.4196
+6c8o
+                      Initial    Final
+           R factor    0.2372   0.2359
+             R free    0.2767   0.2763
+     Rms BondLength    0.0380   0.0148
+      Rms BondAngle    4.3739   3.5083
+6ck5
+                      Initial    Final
+           R factor    0.2134   0.2129
+             R free    0.2501   0.2540
+     Rms BondLength    0.0385   0.0121
+      Rms BondAngle    1.8425   1.7897
+6cq3
+                      Initial    Final
+           R factor    0.2062   0.1927
+             R free    0.2238   0.2236
+     Rms BondLength    0.0265   0.0139
+      Rms BondAngle    1.2540   1.8350
+6cu1
+                      Initial    Final
+           R factor    0.2510   0.2533
+             R free    0.2534   0.2658
+     Rms BondLength    0.0086   0.0072
+      Rms BondAngle    0.8771   1.2530
+6cxz
+                      Initial    Final
+           R factor    0.2209   0.1981
+             R free    0.2556   0.2456
+     Rms BondLength    0.0257   0.0198
+      Rms BondAngle    1.8428   2.2553
+6cy4
+                      Initial    Final
+           R factor    0.3210   0.2813
+             R free    0.3304   0.3152
+     Rms BondLength    0.0306   0.0089
+      Rms BondAngle    2.2019   2.0075
+6dn3
+                      Initial    Final
+           R factor    0.2121   0.1950
+             R free    0.2586   0.2573
+     Rms BondLength    0.0157   0.0065
+      Rms BondAngle    0.9470   1.1638
+6dy5
+                      Initial    Final
+           R factor    0.2547   0.2323
+             R free    0.2736   0.2596
+     Rms BondLength    0.0310   0.0242
+      Rms BondAngle    1.0655   1.4778
+6e1s
+                      Initial    Final
+           R factor    0.2566   0.2382
+             R free    0.2561   0.2440
+     Rms BondLength    0.0159   0.0139
+      Rms BondAngle    3.9564   3.8145
+6e1t
+                      Initial    Final
+           R factor    0.2490   0.2323
+             R free    0.2538   0.2463
+     Rms BondLength    0.0167   0.0148
+      Rms BondAngle    4.0091   3.7166
+6e1u
+                      Initial    Final
+           R factor    0.2550   0.2309
+             R free    0.2608   0.2450
+     Rms BondLength    0.0073   0.0121
+      Rms BondAngle    1.6270   2.2105
+6e1v
+                      Initial    Final
+           R factor    0.3317   0.2960
+             R free    0.3302   0.3124
+     Rms BondLength    0.0077   0.0094
+      Rms BondAngle    1.5282   1.8947
+6e1w
+                      Initial    Final
+           R factor    0.2350   0.2150
+             R free    0.2535   0.2469
+     Rms BondLength    0.0073   0.0125
+      Rms BondAngle    1.6724   2.0639
+6e81
+                      Initial    Final
+           R factor    0.3433   0.3267
+             R free    0.3207   0.3103
+     Rms BondLength    0.0237   0.0063
+      Rms BondAngle    1.4868   1.0133
+6e84
+                      Initial    Final
+           R factor    0.2686   0.2677
+             R free    0.3304   0.3096
+     Rms BondLength    0.0502   0.0127
+      Rms BondAngle    3.6880   2.5034
+6e8s
+                      Initial    Final
+           R factor    0.1962   0.1883
+             R free    0.2134   0.2155
+     Rms BondLength    0.0420   0.0115
+      Rms BondAngle    2.9047   2.6916
+6e8u
+                      Initial    Final
+           R factor    0.1828   0.1740
+             R free    0.2083   0.2048
+     Rms BondLength    0.0553   0.0256
+      Rms BondAngle    3.5277   3.5324
+6f3c
+                      Initial    Final
+           R factor    0.2817   0.2870
+             R free    0.2954   0.3056
+     Rms BondLength    0.0474   0.0662
+      Rms BondAngle   10.5545  11.1989
+6fz0
+                      Initial    Final
+           R factor    0.2693   0.2425
+             R free    0.2772   0.2631
+     Rms BondLength    0.0125   0.0084
+      Rms BondAngle    1.0746   1.4623
+6g8s
+                      Initial    Final
+           R factor    0.2113   0.1958
+             R free    0.2101   0.2127
+     Rms BondLength    0.0397   0.0120
+      Rms BondAngle    3.2899   2.7866
+6gim
+                      Initial    Final
+           R factor    0.1791   0.1768
+             R free    0.2036   0.2041
+     Rms BondLength    0.0232   0.0139
+      Rms BondAngle    2.8980   2.8024
+6h0r
+                      Initial    Final
+           R factor    0.2022   0.1981
+             R free    0.2535   0.2515
+     Rms BondLength    0.0593   0.0152
+      Rms BondAngle    1.0541   1.1540
+6h5r
+                      Initial    Final
+           R factor    0.2593   0.2405
+             R free    0.2840   0.2762
+     Rms BondLength    0.0321   0.0128
+      Rms BondAngle    3.5861   2.7206
+6hbt
+                      Initial    Final
+           R factor    0.2323   0.2177
+             R free    0.2171   0.2136
+     Rms BondLength    0.0132   0.0118
+      Rms BondAngle    1.5070   1.7780
+6hbx
+                      Initial    Final
+           R factor    0.2131   0.2032
+             R free    0.2428   0.2350
+     Rms BondLength    0.0163   0.0123
+      Rms BondAngle    1.6113   1.9304
+6hc5
+                      Initial    Final
+           R factor    0.2248   0.2095
+             R free    0.2298   0.2272
+     Rms BondLength    0.0172   0.0146
+      Rms BondAngle    2.1378   2.2118
+6hu6
+                      Initial    Final
+           R factor    0.2778   0.2607
+             R free    0.3072   0.3002
+     Rms BondLength    0.0197   0.0083
+      Rms BondAngle    2.4496   1.3600
+6ip3
+                      Initial    Final
+           R factor    0.2137   0.1980
+             R free    0.2170   0.2175
+     Rms BondLength    0.0288   0.0225
+      Rms BondAngle    0.9903   1.7854
+6iue
+                      Initial    Final
+           R factor    0.2886   0.3107
+             R free    0.3488   0.3470
+     Rms BondLength    0.0820   0.0295
+      Rms BondAngle    1.2045   1.0641
+6iyq
+                      Initial    Final
+           R factor    0.2649   0.2499
+             R free    0.2927   0.2754
+     Rms BondLength    0.0296   0.0162
+      Rms BondAngle    2.5698   2.9487
+6jr4
+                      Initial    Final
+           R factor    0.1315   0.1200
+             R free    0.1488   0.1385
+     Rms BondLength    0.0435   0.0238
+      Rms BondAngle    1.1041   1.4017
+6jv3
+                      Initial    Final
+           R factor    0.2408   0.2417
+             R free    0.3016   0.2859
+     Rms BondLength    0.0248   0.0079
+      Rms BondAngle    1.8201   1.4981
+6mc2
+                      Initial    Final
+           R factor    0.1606   0.1539
+             R free    0.1745   0.1739
+     Rms BondLength    0.0499   0.0282
+      Rms BondAngle    2.3563   2.1444
+6mc3
+                      Initial    Final
+           R factor    0.2648   0.2607
+             R free    0.2605   0.2665
+     Rms BondLength    0.0758   0.0162
+      Rms BondAngle    2.0468   1.6340
+6mc4
+                      Initial    Final
+           R factor    0.2313   0.2303
+             R free    0.2732   0.2697
+     Rms BondLength    0.0288   0.0086
+      Rms BondAngle    1.5008   1.4654
+6n4g
+                      Initial    Final
+           R factor    0.1882   0.1930
+             R free    0.2170   0.2265
+     Rms BondLength    0.1346   0.0756
+      Rms BondAngle    1.7680   1.5371
+6p2h
+                      Initial    Final
+           R factor    0.2550   0.2385
+             R free    0.2815   0.2762
+     Rms BondLength    0.0155   0.0075
+      Rms BondAngle    0.9586   1.3204
+6qiq
+                      Initial    Final
+           R factor    0.2557   0.2293
+             R free    0.2739   0.2564
+     Rms BondLength    0.0303   0.0183
+      Rms BondAngle    7.1594   6.5439
+6qir
+                      Initial    Final
+           R factor    0.2333   0.2192
+             R free    0.2495   0.2409
+     Rms BondLength    0.0236   0.0124
+      Rms BondAngle    5.0718   4.5544
+6qis
+                      Initial    Final
+           R factor    0.2745   0.2547
+             R free    0.3010   0.2867
+     Rms BondLength    0.0213   0.0151
+      Rms BondAngle    4.7852   4.4414
+6qit
+                      Initial    Final
+           R factor    0.1852   0.1748
+             R free    0.1992   0.1902
+     Rms BondLength    0.0161   0.0159
+      Rms BondAngle    2.2459   2.2580
+6qiv
+                      Initial    Final
+           R factor    0.2258   0.2309
+             R free    0.2822   0.2730
+     Rms BondLength    0.0349   0.0177
+      Rms BondAngle    8.2779   7.6226
+6qn3
+                      Initial    Final
+           R factor    0.2909   0.2682
+             R free    0.3363   0.3172
+     Rms BondLength    0.0124   0.0069
+      Rms BondAngle    1.5995   1.4094
+6rnl
+                      Initial    Final
+           R factor    0.2215   0.2066
+             R free    0.2320   0.2395
+     Rms BondLength    0.0356   0.0147
+      Rms BondAngle    3.5938   2.7082
