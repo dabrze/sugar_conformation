@@ -10,8 +10,7 @@ The repository contains experimental source code, PDB validation data, image gen
 - `sugar_queries` contains CONQUEST queries used to retrieve structures with sugar fragments from the CSD
 - `sugar_results` contains cached experiment results (these can be recreated by running `sugar_analyses.py`)
 - `sugar_terminal_results` contains cached experiment results for terminal sugars
-- `pdb` contains NDB validation data and script for calculating differences between bond lengths and angles
-- the `refmac_runner`, `phenix_runner`, `shelx_runner`, `refinement_analysis` contain additional code and results concerning refinements of structures with the use of the proposed restraints
+- `validation experiments` contains all the validation experiments, such as contains NDB validation data and script for calculating differences between bond lengths and angles, as well as additional code and results concerning (re-)refinements of structures with the use of the proposed restraints
 
 ## Requirements
 
